@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Globalization;
 using static System.Net.WebRequestMethods;
 using System.Collections;
+using System.Security.Cryptography;
 
 namespace NumberGuesser
 
@@ -17,22 +18,102 @@ namespace NumberGuesser
 
     class Program
     {
+        static int[] addtoarrayint(int[] array,int ele)
+        {
+            Array.Resize(ref array, array.Length + 1);
+            array[array.Length - 1] = ele;
+            return array;
+        }
+
         static string GetFlag(string country)
         {
+            var BadCountryto2letter = new Dictionary<string, string>() {
+                {"Andorra","AD"},{"Cyprus","CY"},{"San Marino","SM"}
+            };
             var regions = CultureInfo.GetCultures(CultureTypes.SpecificCultures).Select(x => new RegionInfo(x.LCID));
             var englishRegion = regions.FirstOrDefault(region => region.EnglishName.Contains(country));
-            if (englishRegion == null) return "🏳";
+            if (englishRegion == null)
+            {
+               return IsoCountryCodeToFlagEmoji(BadCountryto2letter[country]);
+            }
             var countryAbbrev = englishRegion.TwoLetterISORegionName;
             return IsoCountryCodeToFlagEmoji(countryAbbrev);
         }
+
         static string IsoCountryCodeToFlagEmoji(string countryCode) => string.Concat(countryCode.ToUpper().Select(x => char.ConvertFromUtf32(x + 0x1F1A5)));
-        static void printscoreboard(IOrderedEnumerable<KeyValuePair<string, int>> scoreboard, Dictionary<string,string> songnames) 
+
+        static void printscoreboard(IOrderedEnumerable<KeyValuePair<string, int>> scoreboard, string[] highlights) 
         {
             int count = 0;
-            foreach (KeyValuePair<string, int> kvp in scoreboard)
+            int halfpoint = Decimal.ToInt32(scoreboard.Count()/ 2);
+            Console.WriteLine();
+
+            var Countryto3letter = new Dictionary<string, string>() {
+                {"Albania","ALB" },{"Andorra","AND"},{"Armenia","ARM"},{"Australia","AUS"},{"Austria","AUT"},
+                {"Azerbaijan","AZE"},{"Belarus","BLR"},{"Belgium","BLG" },{"Bosnia","BIH"},{"Bulgaria","BGR"},
+                {"Croatia","CRO"},{"Cyprus","CYP"},{"Czechia","PRG"},{"Denmark","DEN"},{"Estonia","EST"},
+                {"Finland","FIN"},{"France","FRA"},{"Georgia","GEO"},{"Germany","DEU"},{"Greece","GRE"},
+                {"Hungary","HUN"},{"Iceland","ISL"},{"Ireland","IRL"},{"Israel","ISR"},{"Italy","ITA"},
+                {"Latvia","LVA"},{"Lithuania","LIE"},{"Luxembourg","LUX"},{"Malta","MLT"},{"Moldova","MLD"},
+                {"Monaco","MCO"},{"Montenegro","MNG"},{"Morocco","MAR"},{"Netherlands","NLD"},{"Kazakhstan","KAZ"},
+                {"North Macedonia","MKD"},{"Norway","NOR"},{"Poland","POL"},{"Portugal","POR"},{"Romania","ROM"},
+                {"Russia","RUS"},{"San Marino","SMA"},{"Serbia","SER"},{"Slovakia","SLK"},{"Slovenia","SVN"},
+                {"Spain","ESP"},{"Sweden","SWE"},{"Switzerland","SWI"},{"Turkey","TUR"},{"Ukraine","UKR"},
+                {"United Kingdom","GBR"},{"Yugoslavia","YUG"}
+            };
+            if (scoreboard.Count() % 2 ==1)
             {
+                halfpoint = halfpoint + 1;
+            }
+            string[,] txts = new string[halfpoint,3];
+            int[] highlightnos = { };
+            var countnew = 0;
+
+            foreach (KeyValuePair<string, int> kvp in scoreboard)
+            {   
+                if ( highlights.Contains(kvp.Key))
+                {
+                    highlightnos = addtoarrayint(highlightnos,countnew);
+                }
+                countnew++;       
+                if (count < halfpoint)
+                {
+                    if (count < 9) { txts[count % halfpoint, 0] += (count + 1) + ". " + GetFlag(kvp.Key) + "  " + Countryto3letter[kvp.Key] + " - " + kvp.Value + " points"; }
+                    else { txts[count % halfpoint, 0] += (count + 1) + "." + GetFlag(kvp.Key) + "  " + Countryto3letter[kvp.Key] + " - " + kvp.Value + " points"; }
+                }
+                else
+                {
+                    if (count < 9) { txts[count % halfpoint, 2] += (count + 1) + ". " + GetFlag(kvp.Key) + "  " + Countryto3letter[kvp.Key] + " - " + kvp.Value + " points"; }
+                    else { txts[count % halfpoint, 2] += (count + 1) + "." + GetFlag(kvp.Key) + "  " + Countryto3letter[kvp.Key] + " - " + kvp.Value + " points"; }
+                }
+
+                if (count<halfpoint)
+                {
+                  string voids = new string(' ', 25 - txts[count % halfpoint,0].Length);
+                  txts[count % halfpoint,1] += voids;
+                }
                 count++;
-                Console.WriteLine("{0}. {1} - {2} - {3} points",count, GetFlag(kvp.Key), songnames[kvp.Key],kvp.Value);
+            }
+            for (int i=0; i<halfpoint; i++)
+            {   
+                if (highlightnos.Contains(i))
+                {
+                    Console.BackgroundColor = ConsoleColor.DarkBlue;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                Console.Write(txts[i, 0]);
+                Console.BackgroundColor = ConsoleColor.Gray;
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write(txts[i, 1]);
+                if (highlightnos.Contains(i+halfpoint))
+                {
+                    Console.BackgroundColor = ConsoleColor.DarkBlue;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                Console.Write(txts[i, 2]);
+                Console.BackgroundColor = ConsoleColor.Gray;
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write('\n');
             }
         }
 
@@ -113,7 +194,8 @@ namespace NumberGuesser
              Dictionary<string, decimal> telejurydict = new Dictionary<string, decimal>();
 
             for (int j = 0; j < participants.Length; j++)
-            {
+            {   
+
                 Decimal randomnesslevel = 0.25m;
                 //relation to quality
                 Decimal[] juryskew = { 0.3m, 0.7m };
@@ -128,6 +210,11 @@ namespace NumberGuesser
                 }
                 else { 
                     likeness[j] = randomnesstele + (1 - randomnesslevel) * teleskew[0] * quality + (1 - randomnesslevel) * teleskew[1] * relation;
+                }
+
+                if (participants[j] == country)
+                {
+                    likeness[j] = 0;
                 }
             }
 
@@ -155,8 +242,9 @@ namespace NumberGuesser
             return scoreboard;
         }
 
-        static Dictionary<string, int> finaleurovision(string[] participants, string[] voters)
+        static Dictionary<string, int> finaleurovision(string[] participants, string[] voterss)
         {
+            string[] highlighted = { };
             var CountrytoCapital = new Dictionary<string, string>() {
                 {"Albania","Tiranna" },{"Andorra","Andorra la vela"},{"Armenia","Yerevan"},{"Australia","Canberra"},{"Austria","Wien"},
                 {"Azerbaijan","Baku"},{"Belarus","Minsk"},{"Belgium","Brussels" },{"Bosnia","Sarajevo"},{"Bulgaria","Sofia"},
@@ -170,24 +258,70 @@ namespace NumberGuesser
                 {"Spain","Madrid"},{"Sweden","Stockholm"},{"Switzerland","Bern"},{"Turkey","Ankara"},{"Ukraine","Kiev"},
                 {"United Kingdom","London"},{"Yugoslavia","Belgrade"}
             };
+            Random rng = new Random();
+            string[] voters = voterss.OrderBy(a => rng.Next()).ToArray();
 
-
+            Dictionary<string, int> scoreboardjury = new Dictionary<string, int>();
+            Dictionary<string, int> scoreboardtele = new Dictionary<string, int>();
             Dictionary<string, int> scoreboard = new Dictionary<string, int>();
             for (int j = 0; j < participants.Length; j++)
             {
+                scoreboardtele.Add(participants[j], 0);
+                scoreboardjury.Add(participants[j], 0);
                 scoreboard.Add(participants[j], 0);
-            }
+        }
 
             for (int i = 0; i < voters.Length; i++)
             {
                 Dictionary<string, int> teleeach = voting(participants, voters[i], 0);
                 Dictionary<string, int> juryeach = voting(participants, voters[i], 1);
+                Console.WriteLine("({0}/{1}) Good afternoon from {2}. The first countries that received points from {3} are as follows:",i+1,voters.Length,CountrytoCapital[voters[i]],voters[i]);
+                int[] pointarray = { 1,2,3,4,5,6,7,8,10};
+                int counter = 0;
+                var sortedjury = from entry in juryeach orderby entry.Value ascending select entry;
+                foreach (KeyValuePair<string, int> kvp in sortedjury)
+                {   
+                    if (counter == participants.Length - 10)
+                    {
+                        Console.WriteLine("1 point goes to {0}", kvp.Key);
+                    }
+                    else if (counter > participants.Length-10 && counter < participants.Length-1) {
+                        Console.WriteLine("{0} points go to {1}",pointarray[counter- participants.Length + 10],kvp.Key);
+                    }
+                    else if (counter == participants.Length-1) {
+                        Console.WriteLine("Finally, 12 points from {0} go to {1}",voters[i], kvp.Key);
+                    }
+                    counter++;
+                }
                 foreach (KeyValuePair<string, int> kvp in teleeach)
                 {
-                    scoreboard[kvp.Key.ToString()] += teleeach[kvp.Key.ToString()] + juryeach[kvp.Key.ToString()];
+                    scoreboardtele[kvp.Key.ToString()] += teleeach[kvp.Key.ToString()];
+                    scoreboardjury[kvp.Key.ToString()] += juryeach[kvp.Key.ToString()];
                 }
+                var sortedjurywhole = from entry in scoreboardjury orderby entry.Value descending select entry;
+                printscoreboard(sortedjurywhole,highlighted);
+                if (i == voters.Length-1)
+                {
+                    Console.WriteLine("Press Space to continue");
+                    while (Console.ReadKey().Key != ConsoleKey.Spacebar) ;
+                }
+                Console.Clear();
             }
-            return scoreboard;
+            var sortedjuryback = from entry in scoreboardjury orderby entry.Value ascending select entry;
+            Console.WriteLine("Finally we're going to announce the televote points each participant got starting from the bottom of the scoreboard");
+            
+            foreach (KeyValuePair<string, int> kvp in sortedjuryback)
+            {   
+                scoreboardjury[kvp.Key] += scoreboardtele[kvp.Key];
+                Console.WriteLine("{0}, you received {1} points from the public",kvp.Key,scoreboardtele[kvp.Key]);
+                var sortedfinal = from entry in scoreboardjury orderby entry.Value descending select entry;
+                Array.Resize(ref highlighted, highlighted.Length + 1);
+                highlighted[highlighted.Length - 1] = kvp.Key;
+                printscoreboard(sortedfinal,highlighted);
+                while (Console.ReadKey().Key != ConsoleKey.Spacebar);
+                Console.Clear();
+            }
+            return scoreboardjury;
         }
 
         static Dictionary<string, int> semifinaleurovision(string[] participants, string[] voters)
@@ -208,6 +342,7 @@ namespace NumberGuesser
                     scoreboard[kvp.Key.ToString()] += teleeach[kvp.Key.ToString()] + juryeach[kvp.Key.ToString()];
                 }
             }
+            
             return scoreboard;
         }
 
@@ -315,6 +450,7 @@ namespace NumberGuesser
             Console.OutputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.Unicode;
 
+
             string appname = "Eurovision Simulator";
             string appversion = "1.0.0";
             string appauthor = "Gotsispan";
@@ -327,11 +463,14 @@ namespace NumberGuesser
              "Slovenia","Spain","Sweden","Switzerland","Turkey","Ukraine","United Kingdom","Yugoslavia"};
             string[] big5 = { "Italy", "United Kingdom", "Spain", "Germany", "France" };
             string pastwinner = "Ukraine";
-            string[] banlist = { "Russia", "Yugoslavia", "Morocco" };
+            string[] banlist = { "Russia", "Yugoslavia", "Morocco","Andorra","Belarus","Bosnia","Bulgaria","Hungary","Kazakhstan",
+            "Luxembourg","Monaco","Montenegro","North Macedonia","Slovakia","Turkey" 
+            };
             
             // Change text color
             Console.BackgroundColor = ConsoleColor.Gray;
             Console.ForegroundColor = ConsoleColor.Red;
+            Console.Clear();
 
             //Console.SetCursorPosition((Console.WindowWidth - s.Length)/2,Console.CursorTop);
             string authortext = appname + " : version " + appversion + " by " + appauthor;
@@ -440,11 +579,9 @@ namespace NumberGuesser
             string[] finalparticipants = addarr(addarr(qual1, qual2),big5).Append(pastwinner).ToArray();
             finalparticipants = finalparticipants.OrderBy(a => rng.Next()).ToArray();
             arraytype(finalparticipants);
-            Dictionary<string, int> finalresults = finaleurovision(finalparticipants, normalcountries);
+            Dictionary<string, int> finalresults = finaleurovision(finalparticipants, allparticipants);
             var sortedfinal = from entry in finalresults orderby entry.Value descending select entry;
-            
-            printscoreboard(sortedfinal,songnames);
-
+   
             Console.WriteLine("Press Space to continue");
             while (Console.ReadKey().Key != ConsoleKey.Spacebar) ;
 
