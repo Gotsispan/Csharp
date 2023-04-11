@@ -183,6 +183,13 @@ namespace NumberGuesser
         static Dictionary<string, int> voting(string[] participants, string country,int telejury)
         {
             decimal[] likeness = new decimal[participants.Length];
+			
+			
+			var quality = new Dictionary<string,int>() =  {
+				{"Finland",93},{"Czechia",91},{"Norway",89},{"Austria",86},
+				{"Croatia",80}
+			}
+			
             //int[] scoreboard = new int[participants.Length];
             Random rnd = new Random();
             Dictionary<string, int> scoreboard = new Dictionary<string, int>();
