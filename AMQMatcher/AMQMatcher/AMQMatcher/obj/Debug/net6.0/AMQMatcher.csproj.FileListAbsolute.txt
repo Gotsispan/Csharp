@@ -1,0 +1,15 @@
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\bin\Debug\net6.0\AMQMatcher.exe
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\bin\Debug\net6.0\AMQMatcher.deps.json
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\bin\Debug\net6.0\AMQMatcher.runtimeconfig.json
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\bin\Debug\net6.0\AMQMatcher.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\bin\Debug\net6.0\AMQMatcher.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.csproj.AssemblyReference.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.AssemblyInfoInputs.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.AssemblyInfo.cs
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.csproj.CoreCompileInputs.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\refint\AMQMatcher.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\AMQMatcher.genruntimeconfig.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatcher\AMQMatcher\obj\Debug\net6.0\ref\AMQMatcher.dll
