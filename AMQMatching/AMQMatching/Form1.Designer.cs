@@ -35,7 +35,6 @@ namespace AMQMatcher
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(300, 20);
             this.textBox1.TabIndex = 0;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -69,6 +68,7 @@ namespace AMQMatcher
             this.button2.TabIndex = 4;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // button3
             // 
@@ -78,6 +78,7 @@ namespace AMQMatcher
             this.button3.TabIndex = 5;
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
             // label1
             // 

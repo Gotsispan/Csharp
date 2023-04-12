@@ -45,39 +45,23 @@ namespace AMQMatcher
             autoCompleteCollection3.AddRange(animearray);
             textBox3.AutoCompleteCustomSource = autoCompleteCollection3;
         }
-        private void button2_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show(textBox1.Text);
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = DateTime.Now.ToString();
-        }
-
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Mylablel_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            string textToCopy1 = textBox3.Text;
+            Clipboard.SetText(textToCopy1);
+        }
 
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            string textToCopy2 = textBox2.Text;
+            Clipboard.SetText(textToCopy2);
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            string textToCopy3 = textBox1.Text;
+            Clipboard.SetText(textToCopy3);
         }
     }
 

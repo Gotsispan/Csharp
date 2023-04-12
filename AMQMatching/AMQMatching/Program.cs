@@ -7,6 +7,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.VisualStyles;
+using System.Diagnostics;
+using static System.Net.Mime.MediaTypeNames;
+using System.Text.RegularExpressions;
+using System.Net.NetworkInformation;
 
 namespace AMQMatching
 {
@@ -27,16 +31,36 @@ namespace AMQMatching
             txt = txt + "] \n";
             Console.WriteLine(txt);
         }
-
+        static string[] addtoarraystr(string[] array, string ele)
+        {
+            Array.Resize(ref array, array.Length + 1);
+            array[array.Length - 1] = ele;
+            return array;
+        }
         static List<string[]> readdatabase()
         {
-            string fileContent = new WebClient().DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatcher/AMQSongsDatabase.txt");
+            string fileContent = new WebClient().DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatching/AMQMatching/AMQSongsDatabase2.txt");
             string[] words = fileContent.Split('\n');
-            var words2 = new List<string[]>();
-            for (int i = 0; i < words.Length; i++)
+
+
+            List<string[]> words2 = new List<string[]> { };
+
+            for (int i = 0; i < words.Length-3; i=i+4)
             {
-                words2.Add(words[i].Split('|'));
+                string[] strr;
+              if (words[i+1] == "Kaiba")
+              {
+                    strr = new String[] { "Seira Kagami", words[i + 1], words[i + 2] };
+                    i=i-1;
+              }
+             else
+               {
+                    strr = new String[] { words[i + 3], words[i + 1], words[i + 2] };
+               }
+
+              words2.Add(strr) ;
             }
+
             return words2;
         }
 
@@ -54,18 +78,11 @@ namespace AMQMatching
                 Console.Write("\n");
             }
         }
-        static string[] addtoarraystr(string[] array, string ele)
-        {
-            Array.Resize(ref array, array.Length + 1);
-            array[array.Length - 1] = ele;
-            return array;
-        }
+
 
 
 
         [STAThread]
-
-
 
 
 
@@ -78,6 +95,7 @@ namespace AMQMatching
             string[] artistsall = { };
             string[] songsall = { };
             string[] animeall = { };
+            arraytype(artistsall);
 
             for (int i = 0; i < words2.Count - 1; i++)
             {
@@ -103,9 +121,12 @@ namespace AMQMatching
             form.artistsarray = artistsall;
             form.songsarray = songsall;
             form.animearray = animeall;
+            arraytype(artistsall);
+            arraytype(songsall);
+            arraytype(animeall);
             form.Show();
-            Application.EnableVisualStyles();
-            Application.Run(form);
+            System.Windows.Forms.Application.EnableVisualStyles();
+            System.Windows.Forms.Application.Run(form);
         }
     }
 }
