@@ -1,0 +1,11 @@
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\bin\Debug\AMQMatching.exe.config
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\bin\Debug\AMQMatching.exe
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\bin\Debug\AMQMatching.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.AssemblyReference.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.SuggestedBindingRedirects.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.Properties.Resources.resources
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.GenerateResource.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.CoreCompileInputs.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.exe
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\WindowsFormsApplication1.Form1.resources
