@@ -1,4 +1,4 @@
-﻿using AMQMatcher;
+﻿using AMQMatching;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +11,7 @@ using System.Diagnostics;
 using static System.Net.Mime.MediaTypeNames;
 using System.Text.RegularExpressions;
 using System.Net.NetworkInformation;
+using WindowsFormsApplication1;
 
 namespace AMQMatching
 {
@@ -29,7 +30,7 @@ namespace AMQMatching
             }
             txt = txt.Remove(txt.Length - 1);
             txt = txt + "] \n";
-            Console.WriteLine(txt);
+            Debug.WriteLine(txt);
         }
         static string[] addtoarraystr(string[] array, string ele)
         {
@@ -39,26 +40,36 @@ namespace AMQMatching
         }
         static List<string[]> readdatabase()
         {
-            string fileContent = new WebClient().DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatching/AMQMatching/AMQSongsDatabase2.txt");
+            WebClient client = new WebClient();
+            client.Encoding = Encoding.UTF8;
+            string fileContent = client.DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatching/AMQMatching/AMQSongsDatabase2.txt");
             string[] words = fileContent.Split('\n');
 
 
-            List<string[]> words2 = new List<string[]> { };
+            List<string[]> words2 = new List<string[]> { }; 
 
             for (int i = 0; i < words.Length-3; i=i+4)
             {
-                string[] strr;
-              if (words[i+1] == "Kaiba")
-              {
-                    strr = new String[] { "Seira Kagami", words[i + 1], words[i + 2] };
-                    i=i-1;
-              }
-             else
-               {
-                    strr = new String[] { words[i + 3], words[i + 1], words[i + 2] };
-               }
+              string[] strr;
 
-              words2.Add(strr) ;
+
+               int number;
+               if (int.TryParse(words[i+3], out number))
+               {
+                    string strmin = "Seira Kagami";
+                    strr = new String[] {  words[i + 2].Substring(0, words[i+2].Length - 1), strmin , words[i + 1].Substring(0, words[i + 1].Length - 1) };
+                    arraytype(strr);
+                    i = i - 1;
+                }
+                else
+                {
+                    strr = new String[] { words[i + 2].Substring(0, words[i + 2].Length - 1), words[i + 3].Substring(0, words[i + 3].Length - 1), words[i + 1].Substring(0, words[i + 1].Length - 1) };
+                }
+
+
+              arraytype(strr);
+              if (!words2.Contains(strr)) { words2.Add(strr); }
+
             }
 
             return words2;
@@ -89,12 +100,12 @@ namespace AMQMatching
         public static void Main(string[] args)
         {
             var words2 = readdatabase();
-            Dictionary<int, string> indextoartist = new Dictionary<int, string>();
-            Dictionary<int, string> indextosong = new Dictionary<int, string>();
-            Dictionary<int, string> indextoanime = new Dictionary<int, string>();
             string[] artistsall = { };
             string[] songsall = { };
             string[] animeall = { };
+            string[] artistsalldupes = { };
+            string[] songsalldupes = { };
+            string[] animealldupes = { };
             arraytype(artistsall);
 
             for (int i = 0; i < words2.Count - 1; i++)
@@ -112,18 +123,19 @@ namespace AMQMatching
                 {
                     animeall = addtoarraystr(animeall, words2[i][2]);
                 }
-                indextoartist.Add(key: i, value: words2[i][0]);
-                indextosong.Add(key: i, value: words2[i][1]);
-                indextoanime.Add(key: i, value: words2[i][2]);
+                artistsalldupes = addtoarraystr(artistsalldupes, words2[i][1]);
+                songsalldupes = addtoarraystr(songsalldupes, words2[i][0]);
+                animealldupes = addtoarraystr(animealldupes, words2[i][2]);
             }
 
-            Form1 form = new Form1();
+            WindowsFormsApplication1.Form1 form = new WindowsFormsApplication1.Form1();
             form.artistsarray = artistsall;
             form.songsarray = songsall;
             form.animearray = animeall;
-            arraytype(artistsall);
-            arraytype(songsall);
-            arraytype(animeall);
+            form.artistsarraydupes = artistsalldupes;
+            form.songsarraydupes = songsalldupes;
+            form.animearraydupes = animealldupes;
+
             form.Show();
             System.Windows.Forms.Application.EnableVisualStyles();
             System.Windows.Forms.Application.Run(form);

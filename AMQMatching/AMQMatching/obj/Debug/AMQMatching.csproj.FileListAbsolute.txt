@@ -8,4 +8,4 @@ C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\De
 C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.CoreCompileInputs.cache
 C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.exe
 C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatching.pdb
-C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\AMQMatcher.Form1.resources
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\AMQMatching\AMQMatching\obj\Debug\WindowsFormsApplication1.Form1.resources
