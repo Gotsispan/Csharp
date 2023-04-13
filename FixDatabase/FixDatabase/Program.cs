@@ -7,7 +7,7 @@ using System.Collections.Generic;
 
 
 
-string filePath = "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\AMQMatching\\AMQMatching\\AMQSongsDatabase2.txt";
+string filePath = "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatching\\AMQMatching\\AMQSongsDatabase2.txt";
 Encoding fileEncoding = Encoding.UTF8;
 string fileContents;
 using (StreamReader reader = new StreamReader(filePath, fileEncoding))
@@ -65,8 +65,8 @@ foreach (string line in words2)
     }
 }
 
-File.WriteAllText("C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\AMQMatching\\AMQMatching\\AMQSongsDatabase2fixed.txt", string.Empty);
-StreamWriter writer = new StreamWriter("C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\AMQMatching\\AMQMatching\\AMQSongsDatabase2fixed.txt");
+File.WriteAllText("C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatching\\AMQMatching\\AMQSongsDatabase2fixed.txt", string.Empty);
+StreamWriter writer = new StreamWriter("C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatching\\AMQMatching\\AMQSongsDatabase2fixed.txt");
 int count = 1;
 foreach (string line in fixedwords)
 {
