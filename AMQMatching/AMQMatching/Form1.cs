@@ -187,7 +187,7 @@ namespace WindowsFormsApplication1
             {
                 if (!String.IsNullOrEmpty(ClsCustomAutoCompleteTextbox2.Text))
                 {
-                    ClsCustomAutoCompleteTextbox1.Text = "";
+                    ClsCustomAutoCompleteTextbox2.Text = "";
                 }
             }
             if (sender == button3)
@@ -205,6 +205,18 @@ namespace WindowsFormsApplication1
             ClsCustomAutoCompleteTextbox1.Clear();
             ClsCustomAutoCompleteTextbox2.Clear();
             ClsCustomAutoCompleteTextbox3.Clear();
+            for (int i = 5; i < 45; i++)
+            {
+                string buttonName = "button" + i.ToString();
+                if (this.Controls.ContainsKey(buttonName))
+                {
+                    System.Windows.Forms.Button button = this.Controls[buttonName] as System.Windows.Forms.Button;
+                    if (button != null && i != 23)
+                    {
+                        button.Text = "";
+                    }
+                }
+            }
         }
 
         private void buttonchoices_Click(object sender, EventArgs e)
@@ -294,9 +306,21 @@ namespace WindowsFormsApplication1
                 Debug.WriteLine("{0} , {1}, {2}", animearraydupes[commons[i]], songsarraydupes[commons[i]], artistsarraydupes[commons[i]]);
                 if (i<12)
                 {
-                    string buttonName1 = "button" + (5+3*i).ToString();
-                    string buttonName2 = "button" + (5 + 3 * i + 1).ToString();
-                    string buttonName3 = "button" + (5 + 3 * i + 2).ToString();
+                    string buttonName1;
+                    string buttonName2;
+                    string buttonName3;
+                    if (i > 5)
+                    {
+                        buttonName1 = "button" + (5 + 3 * i + 1).ToString();
+                        buttonName2 = "button" + (5 + 3 * i + 1 + 1).ToString();
+                        buttonName3 = "button" + (5 + 3 * i + 2 + 1).ToString();
+                    }
+                    else
+                    {
+                        buttonName1 = "button" + (5 + 3 * i).ToString();
+                        buttonName2 = "button" + (5 + 3 * i + 1).ToString();
+                        buttonName3 = "button" + (5 + 3 * i + 2).ToString();
+                    }
                     if (this.Controls.ContainsKey(buttonName1) && this.Controls.ContainsKey(buttonName2) && this.Controls.ContainsKey(buttonName3))
                     {
                         System.Windows.Forms.Button button1 = this.Controls[buttonName1] as System.Windows.Forms.Button;

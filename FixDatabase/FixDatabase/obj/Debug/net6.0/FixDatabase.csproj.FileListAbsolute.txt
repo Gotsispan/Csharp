@@ -1,0 +1,15 @@
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\bin\Debug\net6.0\FixDatabase.exe
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\bin\Debug\net6.0\FixDatabase.deps.json
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\bin\Debug\net6.0\FixDatabase.runtimeconfig.json
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\bin\Debug\net6.0\FixDatabase.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\bin\Debug\net6.0\FixDatabase.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.csproj.AssemblyReference.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.AssemblyInfoInputs.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.AssemblyInfo.cs
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.csproj.CoreCompileInputs.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\refint\FixDatabase.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\FixDatabase.genruntimeconfig.cache
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatcher\FixDatabase\FixDatabase\obj\Debug\net6.0\ref\FixDatabase.dll

@@ -42,36 +42,19 @@ namespace AMQMatching
         {
             WebClient client = new WebClient();
             client.Encoding = Encoding.UTF8;
-            string fileContent = client.DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatching/AMQMatching/AMQSongsDatabase2.txt");
+            string fileContent = client.DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatching/AMQMatching/AMQSongsDatabase2fixed.txt");
             string[] words = fileContent.Split('\n');
-
 
             List<string[]> words2 = new List<string[]> { }; 
 
-            for (int i = 0; i < words.Length-3; i=i+4)
+            for (int i = 0; i < words.Length-1; i++)
             {
-              string[] strr;
-
-
-               int number;
-               if (int.TryParse(words[i+3], out number))
-               {
-                    string strmin = "Seira Kagami";
-                    strr = new String[] {  words[i + 2].Substring(0, words[i+2].Length - 1), strmin , words[i + 1].Substring(0, words[i + 1].Length - 1) };
-                    arraytype(strr);
-                    i = i - 1;
-                }
-                else
-                {
-                    strr = new String[] { words[i + 2].Substring(0, words[i + 2].Length - 1), words[i + 3].Substring(0, words[i + 3].Length - 1), words[i + 1].Substring(0, words[i + 1].Length - 1) };
-                }
-
-
-              arraytype(strr);
-              if (!words2.Contains(strr)) { words2.Add(strr); }
-
+                words2.Add(words[i].Split('|'));
+                //for (int j = 0; j < words[i].Split('|').Length; j++)
+                //{
+                //    Debug.WriteLine(words[i].Split('|')[j]);
+                //}
             }
-
             return words2;
         }
 
@@ -95,8 +78,6 @@ namespace AMQMatching
 
         [STAThread]
 
-
-
         public static void Main(string[] args)
         {
             var words2 = readdatabase();
@@ -106,26 +87,26 @@ namespace AMQMatching
             string[] artistsalldupes = { };
             string[] songsalldupes = { };
             string[] animealldupes = { };
-            arraytype(artistsall);
+            
 
             for (int i = 0; i < words2.Count - 1; i++)
             {
                 
-                if (!artistsall.Contains(words2[i][1]))
+                if (!artistsall.Contains(words2[i][2]))
                 {
-                    artistsall = addtoarraystr(artistsall, words2[i][1]);
+                    artistsall = addtoarraystr(artistsall, words2[i][2]);
                 }
-                if (!songsall.Contains(words2[i][0]))
+                if (!songsall.Contains(words2[i][1]))
                 {
-                    songsall = addtoarraystr(songsall, words2[i][0]);
+                    songsall = addtoarraystr(songsall, words2[i][1]);
                 }
-                if (!animeall.Contains(words2[i][2]))
+                if (!animeall.Contains(words2[i][0]))
                 {
-                    animeall = addtoarraystr(animeall, words2[i][2]);
+                    animeall = addtoarraystr(animeall, words2[i][0]);
                 }
-                artistsalldupes = addtoarraystr(artistsalldupes, words2[i][1]);
-                songsalldupes = addtoarraystr(songsalldupes, words2[i][0]);
-                animealldupes = addtoarraystr(animealldupes, words2[i][2]);
+                artistsalldupes = addtoarraystr(artistsalldupes, words2[i][2]);
+                songsalldupes = addtoarraystr(songsalldupes, words2[i][1]);
+                animealldupes = addtoarraystr(animealldupes, words2[i][0]);
             }
 
             WindowsFormsApplication1.Form1 form = new WindowsFormsApplication1.Form1();
@@ -138,7 +119,7 @@ namespace AMQMatching
 
             form.Show();
             System.Windows.Forms.Application.EnableVisualStyles();
-            System.Windows.Forms.Application.Run(form);
+            System.Windows.Forms.Application.Run(form); 
         }
     }
 }

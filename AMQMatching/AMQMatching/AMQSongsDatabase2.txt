@@ -1,2333 +1,1688 @@
 1
-Kiseijuu: Sei no Kakuritsu
-Let Me Hear
-Fear, and Loathing in Las Vegas
+Shoujo Shuumatsu Ryokou
+Seijaku no Tabiji
+MAYUKO & Luminous
 2
-Watamote
-Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui
-Konomi Suzuki n' Kiba of Akiba
+JoJo no Kimyou na Bouken
+Propaganda
+Tokyo Konsei
 3
-Youjo Senki
-Los! Los! Los!
-Aoi Yuuki
+Arslan Senki
+Uzu to Uzu
+NICO Touches the Walls
 4
-Aoi Bungaku Series
-Sakura no Yuuwaku
-Nana Mizuki
+Akira
+Kaneda
+Geinoh Yamashiro-gumi
 5
-Ansatsu Kyoushitsu Final Season
-Tabidachi no Uta
-3-nen E-gumi
-6
-Cop Craft
-Mirage wind (dreani)
-LUNA GOAMI
-7
-Beastars
-Many Stories-epilogue-
-Chica
-8
-Gekkan Shoujo Nozaki-kun
-Uraomote Fortune
-Ari Ozawa
-9
-Charlotte
-Rakuen made
-How-Low-Hello
-2
-Shirokuma Café
-Bamboo☆Scramble
-Jun Fukuyama
-3
-Bakuman.
-FAKER TRICK!
-Mai Kotone
-4
-Shoujo☆Kageki Revue Starlight
-Fly Me to the Star
-Hiro Tazunoki
-5
-Boku no Hero Academia
-Update
-miwa
-6
-Guilty Crown
-friends
-mpi
-7
-Mononoke
-Natsu no Hana
-JUJU
-8
-Kaiba
-Carry Me Away
-9
-Chu-2 Byou demo Koi ga Shitai!
-Hajimari no Tane
-ZAQ
-10
-Sword Art Online II
-Shirushi
-LiSA
-11
-Bokurano
-Uninstall
-Chiaki Ishikawa
-12
-Mahou Shoujo Madoka★Magica
-and I'm home
-Eri Kitamura & Ai Nonaka
-13
-Saiki Kusuo no Psi-nan
-Angel Wink
-Ai Kayano
-14
-Yuri!!! on Ice
-Theme of King JJ
-Tarou Umebayashi feat. Linus Norda
-15
-Sora yori mo Tooi Basho
-Mata ne
-saya
-16
-Paradise Kiss
-Star Luster
-THE BABYS
-17
-Shokugeki no Souma: San no Sara
-Atria
-Fo'xTails
-18
-Blend-S
-Ashita mo Sekai no Mannaka de
-Sora Tokui
-19
-Hitoribocchi no Marumaruseikatsu
-Hitoribocchi no Monologue
-Chisaki Morishita, Minami Tanaka, Akari Kitou, Yuuko Kurose
-20
-Michiko to Hatchin
-Posto de gasolina
-Moreno Veloso
-21
-Clannad After Story
-Shoujo no Gensou
-riya
-22
-Bakuman.
-BAKUROCK ~Mirai no Rinkakusen~
-YA-KYIM
-23
-Noragami
-Goya no Machiawase
-Hello Sleepwalkers
-24
-Shokugeki no Souma: San no Sara
-Symbol
-Luck Life
-25
-Koukyoushihen Eureka Seven
-Himitsu Kichi
-Kozue Takada
-26
-Nisekoi:
-Tooriame drop
-Yumi Uchiyama
-27
-BECK: Mongolian Chop Squad
-further shore
-he
-28
-Kekkai Sensen
-Hello,world!
-BUMP OF CHICKEN
-29
-Boku dake ga Inai Machi
-Re:Re:
-ASIAN KUNG-FU GENERATION
-30
-Tanaka-kun wa Itsumo Kedaruge
-Utatane Sunshine
-Unlimited tone
-31
-Kimi no Na wa.
-Yume Tourou
-RADWIMPS
-32
-Jujutsu Kaisen
-REMEMBER
-Masato(coldrain)
-33
-Black Lagoon: Roberta's Blood Trail
-This moment ~prayer in the light~
-Minako"mooki"Obata
-34
-Sword Art Online: Alicization
-Niji no Kanata ni
-ReoNa
-35
-Durarara!!×2 Ketsu
-Steppin' out
-FLOW
-36
-Kimi ni Todoke
-Kimi ni Todoke
-Tomofumi Tanizawa
-37
-Mahou Shoujo Madoka★Magica
-Credens justitiam
-Eri Itou
-38
-Kill la Kill
-Before my body is dry
-Mika Kobayashi & David Whitaker
-39
-DanMachi II
-Sasayaka na Shukusai
-sora tob sakana
-40
-Mob Psycho 100
-Refrain Boy -English ver.-
-ALL OFF
-41
-Sora yori mo Tooi Basho
-One Step
-Inori Minase, Kana Hanazawa, Yuka Iguchi, Saori Hayami
-42
-Blend-S
-Detarame na Minus to Plus ni Okeru Blend-kou
-Blend・A
-43
-Sakigake!! Cromartie Koukou
-Trust Me
-Bikyouran
-44
-Black Lagoon
-Red fraction
-MELL
-45
-Nodame Cantabile
-Sagittarius
-SUEMITSU & THE NODAME ORCHESTRA
-46
-Cowboy Bebop
-BLUE
-Mai Yamane
-47
-Made in Abyss
-Hanezeve Caradhina
-Kevin Penkin ft. Takeshi Saito
-48
-Drifters
-Rurou no Zakuro
-Yasushi Ishii
-49
-Shinseiki Evangelion
-FLY ME TO THE MOON
-Aya
-50
-Perfect Blue
-Ai no Tenshi
-MISA, Emiko Furukawa, Mie Shimizu
-51
-Spy × Family
-SOUVENIR
-BUMP OF CHICKEN
-52
-Kami nomi zo Shiru Sekai: Megami-hen
-Omoi wa Rain Rain
-Nao Touyama
-53
-Aoi Bungaku Series
-We say hello
-Manami
-54
-Durarara!!×2 Ten
-little world
-Saki Fujita
-55
-Ore Monogatari!!
-Shiawase no Arika
-LOCAL CONNECT
-56
-Carole & Tuesday
-Breathe Again
-Alisa
-57
-Pingu in the City
-PINGU A GO! GO!
-Ken Arai
-58
-Grand Blue
-Konpeki no al Fine ~Ni Kenme ni Karaoke ni Haitta Ore-tachi no Tension Super MAXver.~
-Izu no Kaze
-59
-Maison Ikkoku
-Sailor Fuku to Kikanjuu
-Hiroko Yakushimaru
-60
-Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen
-Kaze ni Fukarete
-Haruka Fukuhara
-61
-BECK: Mongolian Chop Squad
-My World Down
-meister feat. Mark Gardener
-62
-Mousou Dairinin
-Yume no Shima Shinen Kouen
-Susumu Hirasawa
-63
-Great Teacher Onizuka
-Asadoya Yunta
-Nēnēs
-64
-Dumbbell Nan-Kilo Moteru?
-Onegai Muscle
-Fairouz Ai & Kaito Ishikawa
-65
-Nana
-Winter sleep
-OLIVIA inspi' REIRA(TRAPNEST)
-66
-Shingeki no Kyojin: The Final Season
-Boku no Sensou
-Shinsei Kamattechan
-67
-Ore o Suki nano wa Omae dake ka yo
-Hanakotoba
-Haruka Tomatsu & Sachika Misawa & Haruka Shiraishi
-68
-Koe no Katachi
-Koi o Shita no wa
-aiko
-69
-Mushishi
-The Sore Feet Song
-Ally Kerr
-70
-Watamote
-Nichijou Kirari
-Remi
-71
-Toki o Kakeru Shoujo
-Garnet
-Hanako Oku
-72
-Uramichi Onii-san
-Gokkan Spiral
-Mamoru Miyano & Nana Mizuki
-73
-Nisekoi
-CLICK
-ClariS
-74
-Akame ga Kill!
-Liar Mask
-Rika Mayama
-75
-Hoshiai no Sora
-Suisou
-Megumi Nakajima
-76
-FLCL
-Instant Music
-the pillows
-77
-Nejimaki Seirei Senki: Tenkyou no Alderamin
-Tenkyou no Alderamin
-Kishida Kyoudan &THE Akeboshi Rockets
-78
-Kimetsu no Yaiba
-to destroy the evil
-Chiaki Ishikawa feat. Tokyo Konsei
-79
-Darker than Black: Ryuusei no Gemini
-Soul Fusion
-Yasushi Ishii
-80
-Mahoutsukai no Yome
-You
-May'n
-81
-Rainbow: Nisha Rokubou no Shichinin
-Ranran Boogie Woogie
-Mai Higuchi
-1
-Beastars
-Many Stories-epilogue-
-Chica
-2
-Clannad
-Dango Daikazoku
-Chata
-3
-Uchuu Kyoudai
-Goodbye Isaac
-Motohiro Hata
-4
-Rakudai Kishi no Cavalry
-Haramitsu Renge
-ALI PROJECT
-5
-Ginga Eiyuu Densetsu
-Doumei Kokka~Jiyuu no Hata, Jiyuu no Tami, Revolution・the・Heart
-Participating Fans
-6
-Sakamichi no Apollon
-Altair
-Motohiro Hata meets Sakamichi no Apollon
-7
-Kuragehime
-Kimi no Kirei ni Kizuite Okure
-Sambomaster
-8
-Sennen Joyuu
-Rotation [LOTUS-2]
-Susumu Hirasawa
-9
-Pico: Boku no Chiisana Natsu Monogatari
-Suki ~Natsu o Mitsuketakute~
-Pico
-10
-Re:Zero kara Hajimeru Isekai Seikatsu
-Realize
-Konomi Suzuki
-11
-Irozuku Sekai no Ashita kara.
-Mimei no Kimi to Hakumei no Mahou
-Nagi Yanagi
-12
-No Game No Life
-Onegai☆Snyaiper
-Miyuki Sawashiro
-13
-Ousama Game The Animation
-Lost Paradise
-Pile
-14
-Chihayafuru 2
-Akanezora
-Asami Seto
-15
-Grand Blue
-Grand Blue
-Shonan no Kaze
-16
-Death Note
-Zetsubou Billy
-Maximum the Hormone
-17
-Koukyoushihen Eureka Seven
-Fly Away
-Asami Izawa
-18
-Nodame Cantabile
-Sagittarius
-SUEMITSU & THE NODAME ORCHESTRA
-19
-Noragami Aragoto
-Kyouran Hey Kids!!
-THE ORAL CIGARETTES
-20
-Code Geass: Hangyaku no Lelouch R2
-Daydream Believer
-FLOW×ORANGE RANGE
-21
-Nana
-LUCY
-ANNA TSUCHIYA inspi' NANA(BLACK STONES)
-22
-Code Geass: Hangyaku no Lelouch R2
-Mushoku Toumei
-Yutaro Yamashita
-23
-Beastars
-Le zoo
-YURiKA
-24
-Tate no Yuusha no Nariagari
-Cold Illusions
-Ryan Greaves
-25
-Dorohedoro
-SECONDs FLY
-(K)NoW_NAME:NIKIIE
-26
-Angel Beats!
-My Soul,Your Beats!
-Lia
-27
-Zankyou no Terror
-Trigger
-Yuuki Ozaki(from Galileo Galilei)
-28
-Vinland Saga Season 2
-River
-Anonymouz
-29
-Cowboy Bebop
-Tank!
-Seatbelts
-30
-Natsume Yuujinchou Shi
-Takaramono
-Marina Kawano
-31
-Shingeki no Kyojin Season 3
-Shoukei to Shikabane no Michi
-Linked Horizon
-32
-Golden Boy
-Opening
-Joyo Katayanagi
-33
-Drifters
-Rurou no Zakuro
-Yasushi Ishii
-34
-Tokyo Ghoul
-Seija-tachi
-People in the Box
-35
-Hagane no Renkinjutsushi: Brotherhood
-Golden Time Lover
-Sukima Switch
-36
-Shingeki! Kyojin Chuugakkou
-Seishun wa Hanabi no You ni
-Linked Horizon
-37
-Eizouken ni wa Te o Dasu na!
-Easy Breezy
-chelmico
-38
-Koukyoushihen Eureka Seven
-Shounen Heart
-HOME MADE Kazoku
-39
-Angel Beats!
-Brave Song
-Aoi Tada
-40
-Pingu in the City
-Ride The Rainbow
-Ken Arai
-41
 Fate/stay night: Unlimited Blade Works
-THIS ILLUSION
-LiSA
-42
-Orange
-Hikari no Hahen
-Yuu Takahashi
-43
-Hyouge Mono
-Bowl Man
-IKZO
-44
-Darling in the FranXX
-Torikago
-XX:me
-45
-Outbreak Company: Moeru Shinryakusha
-Univer Page
-Suzuko Mimori
-46
-3-gatsu no Lion
-Fighter
-BUMP OF CHICKEN
-47
+LAST STARDUST
+Aimer
+6
+Fate/stay night: Heaven's Feel II. Lost Butterfly
+I beg you
+Aimer
+7
+Serial Experiments Lain
+Kodoku no Signal
+Reichi "CHABO" Nakaido
+8
+Sakura-sou no Pet na Kanojo
+Yume no Tsuzuki
+Konomi Suzuki
+9
+Date A Live II
+calling
+Nobunaga Shimazaki
+10
+Shirokuma Café
+Ikinokore! Shirokuma
+MC469MA
+11
+Tokyo Ghoul:re
+Rakuen no Kimi
+österreich
+12
+Samurai Champloo
+san francisco
+midicronica
+13
 Baccano!
 Calling
 Kaori Oda
-48
-Texhnolyze
-GUARDIAN ANGEL(XAVIER'S EDIT)
-JUNO REACTOR
-49
-Arslan Senki: Fuujin Ranbu
-blaze
-Kalafina
-50
-DanMachi
-REALIZE ~Hajimari no Toki~
-Maaya Uchida
-51
-Mob Psycho 100
-Refrain Boy -English ver.-
-ALL OFF
-52
-Saiki Kusuo no Psi-nan
-Sai Ψ Sai Kouchou!
-Dempagumi.inc
-53
-JoJo no Kimyou na Bouken: Diamond wa Kudakenai
-Great Days -Units Ver.-
-JO☆UNITED
-54
-Cowboy Bebop: Tengoku no Tobira
-Gotta knock a little harder
-Seatbelts featuring Mai Yamane
-55
-Kyoukai no Kanata
-Daisy
-STEREO DIVE FOUNDATION
-56
-Cowboy Bebop: Tengoku no Tobira
-Ask DNA
-Seatbelts featuring Raj Ramayya
-57
-Natsume Yuujinchou Shi
-Ima, Kono Toki.
-Hiiragi
-58
-Kaiba
-Carry Me Away
-59
-Strike the Blood III
-LOVE STOIC
-Risa Taneda
-60
-Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru
-TIT FOR TAT
-MYTH & ROID
-61
-Carole & Tuesday
-The Tower
-Alisa
-62
-Natsume Yuujinchou Go
-Akane Sasu
-Aimer
-63
-Ping Pong The Animation
-Tada Hitori
-Bakudan Johnny
-64
-Isekai Quartet
-Hollow Veil
-nonoc
-65
-Fruits Basket 2nd Season
-ad meliora
-THE CHARM PARK
-66
-Code Geass: Hangyaku no Lelouch
-Kaidoku Funou
-Jinn
-67
-Steins;Gate: Fuka Ryouiki no Déjà vu
-Anata no Eranda Kono Toki o
+14
+Steins;Gate
+Another Heaven
 Kanako Itou
-68
-Blood Lad
-BLOODY HOLIC
-Yuuka Nanri
-69
-Orange
-Mirai
-Kobukuro
-70
-Ore Monogatari!!
-Shiawase no Arika
-LOCAL CONNECT
-71
-Rainbow: Nisha Rokubou no Shichinin
-We're not alone
-coldrain
-72
-Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru
-be perfect, plz!
-Riko Azuna
-73
-Ookami to Koushinryou
-Ringo Biyori
-ROCKY CHACK
-74
-Gekijouban Mahou Shoujo Madoka★Magica Shinpen: Hangyaku no Monogatari
-Colorful
-ClariS
-75
-Saiki Kusuo no Psi-nan
-Kokoro
-Natsuki Hanae
-76
-No Guns Life
-MOTOR CITY
-Kenichi Asai
-77
-Kaichou wa Maid-sama!
-My Secret
-Saaya Mizuno
-78
-Outbreak Company: Moeru Shinryakusha
-Watashi no Housekibako
-Mai Fuchigami
-79
-Kono Subarashii Sekai ni Shukufuku o!
-fantastic dreamer
-Machico
-80
-Shingeki no Kyojin Season 2
-Yuugure no Tori
-Shinsei Kamattechan
-81
-Clannad After Story
-Toki o Kizamu Uta
-Lia
-82
-Boku-tachi wa Benkyou ga Dekinai
-Seishun Seminar
-Study
-1
-Sewayaki Kitsune no Senko-san
-Koyoi mofumofu!!
-Azumi Waki & Maaya Uchida
-2
-HachiKuro
-Waltz
-Suneohair
-3
-Gyakkyou Burai Kaiji: Hakairoku-hen
-Mirai wa Bokura no Te no Naka
-Masato Hagiwara with Red Bonchiris
-4
+15
 Kami nomi zo Shiru Sekai
-Tatta Ichido no Kiseki
-Tomo Sakurai
-5
-Perfect Blue
-SEASON
-M-VOICE
-6
-Isekai Quartet 2
-Isekai Showtime
-Satoshi Hino, Jun Fukushima, Yuusuke Kobayashi, Aoi Yuuki
-7
-Mirai Nikki
-filament
-Yousei Teikoku
-8
-Durarara!!×2 Ten
-Day you laugh
-Toshiyuki Toyonaga
-9
-Btooom!
-No pain, No game
-nano
-10
-Yuru Camp△
-SHINY DAYS
-Asaka
-11
-Araburu Kisetsu no Otome-domo yo.
-Otome-domo yo.
-CHiCO with HoneyWorks
-12
-Gokukoku no Brynhildr
-Ichibanboshi
-Risa Taneda, Aya Suzaki, M・A・O, Azusa Tadokoro
-1
-Cowboy Bebop: Tengoku no Tobira
-COSMIC DARE (PRETTY WITH A PISTOL)
-Seatbelts featuring Reynada Hill
-2
-Sakura-sou no Pet na Kanojo
-Kyou no Hi wa Sayounara
-Suimei Koukou Seito Ichidou
-1
-Katanagatari
-Lay Back
-Lotus Juice
-2
-Oregairu
-Hello Alone -Band arrange-
-Saori Hayami & Nao Touyama
-3
-Kimetsu no Yaiba
-to destroy the evil
-Chiaki Ishikawa feat. Tokyo Konsei
-4
-Fruits Basket 2nd Season
-Eden
-MONKEY MAJIK
-5
-Barakamon
-Rashisa
-SUPER BEAVER
-6
-Strike the Blood III
-LOVE STOIC
-Risa Taneda
-7
+Shuuseki Kairo no Yume Tabibito
+Hiro Shimono with Oratorio The World God Only Knows
+16
+Shingeki no Kyojin Season 3
+Zero Eclipse
+Laco
+17
+Nisekoi
+STEP
+ClariS
+18
+Made in Abyss: Retsujitsu no Ougonkyou
+Endless Embrace
+MYTH & ROID
+19
+Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen
+Yasashisa no Kioku
+maimie
+20
+Uramichi Onii-san
+Kasa Mottenai Toki ni Kagitte Amefuru no Nande
+Nana Mizuki
+21
+Sword Art Online Alternative: Gun Gale Online
+Pilgrim
+ReoNa
+22
+Re:Zero kara Hajimeru Isekai Seikatsu
+Bouya no Yume yo
+Rie Takahashi
+23
+Natsume Yuujinchou Roku
+Kimi no Uta
+Rei Yasuda
+24
+Usagi Drop
+High High High
+Kasarinchu
+25
+Princess Tutu
+Watashi no Ai wa Chiisai Keredo
+Ritsuko Okazaki
+26
+Beastars
+Kaibutsu
+YOASOBI
+27
+Durarara!!
+Complication
+ROOKiEZ is PUNK'D
+28
 Shingeki no Kyojin: Kuinaki Sentaku
 So ist es immer
 Benjamin Anderson
-8
-Strike the Blood
-Fight 4 Real
-ALTIMA
-9
-Tate no Yuusha no Nariagari
-Falling Through Starlight
-Amelia Jones
-10
-Kiseijuu: Sei no Kakuritsu
-Let Me Hear
-Fear, and Loathing in Las Vegas
-11
-Fune o Amu
-Jishozukuri no Uta ~We are Jisho-tans~
-Jisho-tans
-12
-Kono Subarashii Sekai ni Shukufuku o! 2
-Ouchi ni Kaeritai
-Ai Kayano, Rie Takahashi, Sora Amamiya
-13
-Great Pretender
-The Great Pretender
-Freddie Mercury
-14
-Shokugeki no Souma
-Sacchan no Sexy Curry
-Seiko Oomori
-15
-Spy × Family
-SOUVENIR
-BUMP OF CHICKEN
-16
-Boku-tachi wa Benkyou ga Dekinai!
-Wonder Pure Magic!
-You Taichi & Kana Asumi
-17
-Youjo Senki
-Sensen no Realism
-Mako Niina
-18
-Fate/stay night: Heaven's Feel II. Lost Butterfly
-you have to choose your future
-Yuri Kasahara
-19
-Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.
-secret base ~Kimi ga Kureta Mono~ (10 years after ver.)
-Ai Kayano, Haruka Tomatsu, Saori Hayami
-20
-Ore no Imouto ga Konnani Kawaii Wake ga Nai.
-will
-Ayana Taketatsu
-21
-Koukaku Kidoutai: Stand Alone Complex
-Beauty Is Within Us
-Scott Matthew
-22
-Asobi Asobase
-Inkya Inplus
-Hina Kino, Rika Nagae, Konomi Kohara feat. Ikepy & KSKN
-23
-Initial D
-See you, my best love
-move
-24
-FLCL
-Instant Music
-the pillows
-25
-Trigun
-Kaze wa Mirai ni Fuku
-AKIMA & NEOS
-26
-Oregairu Kan
-Diamond no Jundo ~Yukino Ballade~
-Saori Hayami
-27
-Beastars
-Le zoo
-YURiKA
-28
-Isekai Quartet 2
-Isekai Showtime
-Satoshi Hino, Jun Fukushima, Yuusuke Kobayashi, Aoi Yuuki
 29
-Boku-tachi wa Benkyou ga Dekinai!
-Houkago no Liberty
-halca
+Tonari no Totoro
+Sanpo
+Azumi Inoue
 30
-Akame ga Kill!
-Tsukiakari
-Sora Amamiya
+Re:Zero kara Hajimeru Isekai Seikatsu
+Memento
+nonoc
 31
-Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.
-Hana no Eda
-Kanon Takao
+Initial D
+BREAK IN 2 THE NITE
+move
 32
-One Punch Man
-Chizu ga Nakute mo Modoru kara
-Makoto Furukawa
+Nagi no Asukara
+Mitsuba no Musubime
+Nagi Yanagi
 33
-Danshi Koukousei no Nichijou
-Shiny tale
-Mix Speaker's,Inc.
+3-gatsu no Lion
+En Fermant les Yeux
+Nathalie Roudet
 34
-Hellsing Ultimate
-Zakuro (Ver. SV)
-Suilen
+Kubikiri Cycle: Ao-iro Savant to Zaregoto Tsukai
+optimistically
+Yuki Kajiura
 35
-Samurai Champloo
-battlecry
-Nujabes feat.Shing02
+Uramichi Onii-san
+Gokkan Spiral
+Mamoru Miyano & Nana Mizuki
 36
-Shoujo Kakumei Utena
-Fuuin Jubaku
-Suginami Jidou Gasshou-dan, Maki Kamiya, Kunihiko Ikuhara, Shinkichi Mitsumune
+Uchuu Kyoudai
+Tete
+Akihisa Kondou
 37
-Chainsaw Man
-In The Back Room
-syudou
-38
-BECK: Mongolian Chop Squad
-Is this really the way it is
-BALLOONS
-39
-Keijo!!!!!!!!
-Fantas/HIP Girlfriends!
-Lynn, M・A・O, Kaede Hondo, Saori Oonishi
-40
-Boku no Hero Academia
-Make my story
-Lenny code fiction
-41
-Perfect Blue
-Ai no Tenshi
-MISA, Emiko Furukawa, Mie Shimizu
-42
-Otaku ni Koi wa Muzukashii
-Fiction
-sumika
-43
-Sakamichi no Apollon
-Bang Bang Bang
-Nobuhiko Okamoto
-44
-Ore o Suki nano wa Omae dake ka yo
-Papapa
-Shuka Saitou
-45
 Joshiraku
 Nippon Egao Hyakkei
 Momokurotei Ichimon
-46
-Imouto sae Ireba Ii.
-Donna Hoshizora yori mo, Donna Omoide yori mo
-Aira Yuuki
-47
-Shingeki no Kyojin: The Final Season
-Shougeki
-Yuko Ando
-48
-Sword Art Online: Alicization
-RESISTER
-ASCA
-49
-Ousama Game The Animation
-FEED THE FIRE
-coldrain
-50
-Gosick
-Destin Histoire
-yoshiki*lisa
-1
-Kekkai Sensen & Beyond
-CAN YOU FEEL IT
-Saucy Lady
-1
-Spy × Family
-TBD
+38
+Amagami SS
+minamo
+Yukana
+39
+Bakemonogatari
+Kaerimichi
+Emiri Katou
+40
+Dorohedoro
+Night SURFING
 (K)NoW_NAME:Ayaka Tachibana
-2
-Gekijouban Mahou Shoujo Madoka★Magica Shinpen: Hangyaku no Monogatari
-Noi!
-Suginami Jidou Gasshou-dan
-3
-Death Note
-the WORLD
-Nightmare
-4
-Nana
-Wish
-OLIVIA inspi' REIRA(TRAPNEST)
-5
-Spy × Family
-Breeze
-(K)NoW_NAME:NIKIIE
-6
-High School DxD
-Trip -innocent of D-
-Larval Stage Planning
-7
-Dororo
-Sayonara Gokko
-amazarashi
-8
-Darker than Black: Ryuusei no Gemini
-Brand New Happiness
-Yasushi Ishii
-9
-Yakusoku no Neverland
-Touch off
-UVERworld
-10
-JoJo no Kimyou na Bouken: Ougon no Kaze
-Uragirimono no Requiem
-Daisuke Hasegawa
-11
-Steins;Gate 0
-GATE OF STEINER
-Eri Sasaki
-12
-Pico: Boku no Chiisana Natsu Monogatari
-Koi o Shiyou yo
-Pico
-13
-Nanatsu no Taizai
-Perfect Time
-Mika Kobayashi & mpi
-14
-Sakigake!! Cromartie Koukou
-Trust Me
-Bikyouran
-15
-Dr. Stone
-Yeah,My Teams Amazing!!
-Aztech, Paranom & Kasper from Hybrid Thoughts
-16
-Fate/Zero
-MEMORIA
-Eir Aoi
-17
-Shokugeki no Souma: Shin no Sara
-Chronos
-STEREO DIVE FOUNDATION
-18
-Hunter x Hunter
-HUNTING FOR YOUR DREAM
-GALNERYUS
-1
-Zankyou no Terror
-22
-Ryo Nagano
-2
-One Punch Man
-THE HERO !! ~Ikareru Kobushi ni Hi o Tsukero~
-JAM Project
-3
-Sakura-sou no Pet na Kanojo
-I call your name again
-Mariko Nakatsu
-4
-FLCL
-CARNIVAL
-the pillows
-5
-Sword Art Online II
-Startear
-Luna Haruna
-6
-Log Horizon
-Your song*
-Yun*chi
-7
-Hajime no Ippo: New Challenger
-HEKIREKI
-LAST ALLIANCE
-8
-Koukaku Kidoutai: Stand Alone Complex
-lithium flower
-Scott Matthew
-9
-Michiko to Hatchin
-Febre 1980
-Thalma de Freitas
-10
-Gekijouban Sword Art Online: Ordinal Scale
-Catch the Moment
-LiSA
-11
-Cyberpunk: Edgerunners
-I REALLY WANT TO STAY AT YOUR HOUSE
-ROSA WALTON (LETS EAT GRANDMA)
-12
-FLCL
-I think I can
-the pillows
-13
-Orange
-Mirai
-Kobukuro
-14
-Shoujo☆Kageki Revue Starlight
-Butai Shoujo Kokoroe Makuai
-Momoyo Koyama, Maho Tomita, Hinata Satou, Haruki Iwata, Moeka Koizumi, Aina Aiba, Teru Ikuta, Ayasa Ito
-15
-Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.
-secret base ~Kimi ga Kureta Mono~ (10 years after ver.)
-Ai Kayano, Haruka Tomatsu, Saori Hayami
-16
-Strike the Blood II
-Blood on the EDGE
-Kishida Kyoudan &THE Akeboshi Rockets
-17
-Bokurano
-Vermillion
-Chiaki Ishikawa
-18
-Shoujo☆Kageki Revue Starlight
-RE:CREATE
-Suzuko Mimori & Moeka Koizumi
-19
-Dumbbell Nan-Kilo Moteru?
-Snow Globe
-tea
-20
-KimiUso
-Étude Op. 25 No. 11 (Winter Wind)
-Frédéric Chopin
-21
-Interstella 5555
-Superheroes
-Daft Punk ft. Barry Manilow
-22
-Made in Abyss: Retsujitsu no Ougonkyou
-GRAVITY
-Arnór Dan
-23
-Seihou Bukyou Outlaw Star
-Tsuki no Ie
-Akino Arai
-24
-Vivy: Fluorite Eye's Song
-Galaxy Anthem
-Kairi Yagi
-25
-Danna ga Nani o Itteiru ka Wakaranai Ken
-Okusama no Blues
-Yukari Tamura, Rie Kugimiya, Ryoko Shintani
-26
-Log Horizon
-Wonderful Wonder World*
-Yun*chi
-27
-Nagi no Asukara
-ebb and flow
-Ray
-28
-Durarara!!
-Uragiri no Yuuyake
-THEATRE BROOK
-29
-Tokyo Ghoul:re
-katharsis
-TK from Ling Tosite Sigure
-30
-Yagate Kimi ni Naru
-Suki, Igai no Kotoba de
-Yuuki Takada & Minako Kotobuki
-31
-Lupin the Third: Mine Fujiko to Iu Onna
-Duty Friend
-NIKIIE
-32
-Interstella 5555
-Face To Face
-Daft Punk feat. Todd Edwards
-33
-DanMachi
-REALIZE ~Hajimari no Toki~
-Maaya Uchida
-34
-Texhnolyze
-GUARDIAN ANGEL(XAVIER'S EDIT)
-JUNO REACTOR
-35
-Karakai Jouzu no Takagi-san 2
-STARS
-Rie Takahashi
-36
-Gyakkyou Burai Kaiji: Hakairoku-hen
-C kara Hajimaru ABC
-Wasureranneyo
-37
-Chainsaw Man
-DOGLAND
-PEOPLE 1
-38
-Paprika
-Byakkoya
-Susumu Hirasawa
-39
-Sword Art Online Alternative: Gun Gale Online
-Independence
-ReoNa
-40
-Overlord II
-GO CRY GO
-OxT
-41
-DanMachi II
-Tsuki no Shirabe
-Haruka Chisuga
-42
-Tokyo Ghoul √A
-Kisetsu wa Tsugitsugi Shindeiku
-amazarashi
-43
-Mousou Dairinin
-Gemini 2
-Susumu Hirasawa
-44
-Mob Psycho 100 II
-Memo Sepia
-sajou no hana
-45
-Akame ga Kill!
-Konna Sekai, Shiritakunakatta.
-Miku Sawai
-46
-Keppeki Danshi! Aoyama-kun
-Taiyou ga Kureta Kisetsu Kazuma Sakai Ver.
-Soichiro Hoshi
-47
-Gosick
-La Vie en Rose
-Miyuki Sawashiro
-48
-Aoi Bungaku Series
-We say hello
-Manami
-49
-Sarai-ya Goyou
-Sign of Love
-immi
-50
-One Punch Man
-Chizu ga Nakute mo Modoru kara
-Makoto Furukawa
-1
-Yuru Camp△
-SHINY DAYS
-Asaka
-2
-Charlotte
-Fallin'
-marina
-3
-Samurai Champloo
-Hiji Zuru Style
-FORCE OF NATURE feat.SUIKEN & S-WORD
-4
-Irozuku Sekai no Ashita kara.
-color capsule
-Nagi Yanagi
-5
-Zoku Natsume Yuujinchou
-Ano Hi Time Machine
-LONG SHOT PARTY
-6
-Gekijouban Mahou Shoujo Madoka★Magica Shinpen: Hangyaku no Monogatari
-I was waiting for this moment
-Yuriko Kaida
-7
-Tanaka-kun wa Itsumo Kedaruge
-Utatane Sunshine
-Unlimited tone
-8
-Kaichou wa Maid-sama!
-My Secret
-Saaya Mizuno
-9
-Grisaia no Meikyuu
-Grimm
-Faylan
-10
-3-gatsu no Lion
-Flag o Tatero
-YUKI
-11
-Durarara!!×2 Ten
-little world
-Saki Fujita
-12
-Nichijou
-Hyadain no Kakakata☆Kataomoi-C
-Hyadain
-13
-Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.
-This is Yuusha, but Zannen!?
-Nobuhiko Okamoto
-14
-Tsuki ga Kirei
-Natsumatsuri
-Nao Touyama
-15
-Kami nomi zo Shiru Sekai II
-YES-TODAY
-Nao Touyama
-16
-Bungo Stray Dogs
-WRIGHT LEFT
-SCREEN mode
-17
-Cowboy Bebop: Tengoku no Tobira
-COSMIC DARE (PRETTY WITH A PISTOL)
-Seatbelts featuring Reynada Hill
-18
-Darker than Black: Ryuusei no Gemini
-Dive into the 9
-Yasushi Ishii
-19
-Uchuu Kyoudai
-Feel So Moon
-Unicorn
-20
-Chu-2 Byou demo Koi ga Shitai!
-INSIDE IDENTITY
-Black Raison d'être
-21
-Bakuman.
-GET UP
-KOOGY
-22
-Shokugeki no Souma: Ni no Sara
-ROUGH DIAMONDS
-SCREEN mode
-23
-JoJo no Kimyou na Bouken: Stardust Crusaders
-Walk Like An Egyptian
-Bangles
-24
-Toradora!
-Holy Night
-Rie Kugimiya & Eri Kitamura
-25
-Koukyoushihen Eureka Seven
-Tip Taps Tip
-HALCALI
-26
-JoJo no Kimyou na Bouken: Diamond wa Kudakenai
-Great Days
-Karen Aoki・Daisuke Hasegawa
-27
-Darker than Black: Kuro no Keiyakusha
-Blend In
-James Wendt
-28
-Redline
-REDLINE DAY
-James Shimoji feat.Rob Laufer
-29
-Mushoku Tensei: Isekai Ittara Honki Dasu
-Mezame no Uta
-Yuiko Ohara
-30
-Nami yo Kiite Kure
-Pride
-Harumi
-31
-Araburu Kisetsu no Otome-domo yo.
-Koibito Tsunagi
-CHiCO with HoneyWorks
-32
-Ansatsu Kyoushitsu Final Season
-Gekkou
-Shion Miyawaki
-33
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
-Fukashigi no Karte
-Asami Seto
-34
-Great Teacher Onizuka
-Ichiman Anguwa
-Nēnēs
-35
-Tengen Toppa Gurren Lagann
-Minna no Peace
-Afromania
-36
-Grisaia no Rakuen
-Setsuna no Kajitsu
-Maon Kurosaki
-37
-Hellsing Ultimate
-P.S. Namuamidabutsu
-Yasushi Ishii
-38
-Mahou Shoujo Madoka★Magica
-Credens justitiam
-Eri Itou
-39
-HachiKuro
-Dramatic
-YUKI
-40
-Ima, Soko ni Iru Boku
-Ima, Soko ni Iru Boku
-Toshio Masuda
 41
 Fate/Zero
 oath sign
 LiSA
 42
-Yamada-kun to 7-nin no Majo
-Kuchizuke Diamond
-WEAVER
-43
-Aria the Natural
-Smile Again
-Erino Hazuki
-44
-Ookami to Koushinryou
-Ringo Biyori
-ROCKY CHACK
-45
-Hagane no Renkinjutsushi: Brotherhood
-Golden Time Lover
-Sukima Switch
-46
-91 Days
-Rain or Shine
-ELISA
-47
-Initial D
-DANCING QUEEN
-KING & QUEEN
-48
-Paradise Kiss
-♥Lonely in Gorgeous♥
-Tommy february⁶
-49
-No Game No Life Zero
-Mata Game Shiyouze ~Shinsekai no Hikari
-Nataliya Gudziy
-50
-Clannad
-Kage Futatsu
-riya
-1
-Shingeki no Kyojin
-DOA
-Aimee Blackschleger
-2
-Sword Art Online: Alicization - War of Underworld
-unlasting
-LiSA
-3
-Toki o Kakeru Shoujo
-Garnet
-Hanako Oku
-4
-Shingeki no Kyojin: Kuinaki Sentaku
-So ist es immer
-Benjamin Anderson
-5
-Vivy: Fluorite Eye's Song
-My Code
-Kairi Yagi
-6
-Shingeki no Kyojin: The Final Season
-Boku no Sensou
-Shinsei Kamattechan
-7
-Shingeki no Kyojin Season 3
-K21
-David Whitaker
-8
-Michiko to Hatchin
-Posto de gasolina
-Moreno Veloso
-9
-Kubikiri Cycle: Ao-iro Savant to Zaregoto Tsukai
-Märchen
-Kalafina
-10
-Steins;Gate
-My White Ribbon
-Afilia Saga East
-11
-Drifters
-Hannya Revolution~DRIFTERS ver.~
-YASUSHI ISHII
-12
-Arifureta Shokugyou de Sekai Saikyou
-Jibun-iro no Mirai
-Saori Oonishi & Yumiri Hanamori
-13
-Amagami SS
-Suteki na Aru Hi
-Kana Asumi
-14
-Psycho-Pass 3
-bullet
-Cö shu Nie
-15
-Kekkai Sensen
-It's Through With You
-Laurie Grant
-16
-Yojouhan Shinwa Taikei
-Kamisama no Iutoori
-Junji Ishiwatari & Yoshinori Sunahara + Etsuko Yakushimaru
-17
-Black Lagoon: The Second Barrage
-The world of midnight
-Minako"mooki"Obata
-18
-Hajime no Ippo
-ETERNAL LOOP
-SABER TIGER
-19
-Mawaru Penguindrum
-Ashita no Kageri no Naka de
-Triple H
-20
-Fate/stay night
-disillusion
-Sachi Tainaka
-21
-Sakamichi no Apollon
-Altair
-Motohiro Hata meets Sakamichi no Apollon
-22
-Serial Experiments Lain
-Kodoku no Signal
-Reichi "CHABO" Nakaido
-23
-Mahoutsukai no Yome
-Kimi no Yukue
-KOCHO
-24
-Mawaru Penguindrum
-Tamashii Kogashite
-Triple H
-25
-Fate/stay night: Unlimited Blade Works
-THIS ILLUSION
-LiSA
-26
-Guilty Crown
-close your eyes
-Michiyo Honda
-27
-Hataraku Maou-sama!
-Tsumabiku Hitori
-nano.RIPE
-28
-Odd Taxi
-ODDTAXI
-Skirt to PUNPEE
-29
-Ryuugajou Nanana no Maizoukin
-Kasuka na Hisoka na Tashika na Mirai
-Sphere
-30
-Overlord
-L.L.L.
-MYTH & ROID
-31
-Monster
-Make It Home
-Fujiko Hemming
-32
-Nodame Cantabile
-Konna ni Chikaku de...
-Crystal Kay
-33
-Cyberpunk: Edgerunners
-HEALTH
-MAJOR CRIMES
-34
-Darling in the FranXX
-Battle Cry
-Dj L-Spade
-35
-Kami nomi zo Shiru Sekai
-Koi no Shirushi from Elsie
-Kanae Itou
-36
-Ousama Ranking
-Hadaka no Yuusha
-Vaundy
-37
-Shinsekai yori
-Wareta Ringo
-Risa Taneda
-38
-Ore o Suki nano wa Omae dake ka yo
-Hanakotoba
-Haruka Tomatsu & Sachika Misawa & Haruka Shiraishi
-39
-Kanata no Astra
-star*frost
-nonoc
-40
-Youjo Senki
-Sensen no Realism
-Mako Niina
-41
-K-On!
-Tsubasa o Kudasai
-Sakurakou K-On-bu
-42
-Psycho-Pass
-abnormalize
-Ling Tosite Sigure
-43
-Shoujo Kakumei Utena
-Spira Mirabilis Gekijou
-Suginami Jidou Gasshou-dan, Maki Kamiya, Kunihiko Ikuhara, Shinkichi Mitsumune
-44
-Kekkai Sensen
-The Land of Nod
-Ben Lorentzen
-45
-Cowboy Bebop
-CALL ME CALL ME
-Steve Conte
-46
-Kill la Kill
-Sanbika
-Eir Aoi
-47
-Kono Oto Tomare!
-Speechless
-Yuuma Uchida
-48
-Kami nomi zo Shiru Sekai: Megami-hen
-NAKED GENIUS
-Saori Hayami
-49
-Angel Beats!
-Ichiban no Takaramono
-karuta
-50
-Kill la Kill
-Sirius
-Eir Aoi
-1
-Made in Abyss: Retsujitsu no Ougonkyou
-VOH
-Kevin Penkin ft. Takeshi Saito
-2
-Code Geass: Hangyaku no Lelouch R2
-O2
-ORANGE RANGE
-3
-Shoujo☆Kageki Revue Starlight
-Fly Me to the Star
-Suzuko Mimori & Momoyo Koyama
-4
-Angel Beats!
-My Soul,Your Beats!
-LiSA
-5
-Nagi no Asukara
-Aqua Terrarium
-Nagi Yanagi
-6
-JoJo no Kimyou na Bouken: Diamond wa Kudakenai
-chase
-1
-Tokyo Ghoul:re
-HALF
-Ziyoou-vachi
-2
-Durarara!!×2 Ten
-EXIT
-REVALCY
-3
-Kaiba
-the tree song
-Minako"mooki"Obata
-4
-91 Days
-Ah, la paterna mano
-Enrico Caruso
-6
-Dumbbell Nan-Kilo Moteru?
-Ikusa
-Yusuke Saeki
-7
-Carole & Tuesday
-La ballade
-Maika Loubté
-8
-Michiko to Hatchin
-Desencanto
-Wilson das Neves
-9
-Ima, Soko ni Iru Boku
-Komoriuta...
-Reiko Yasuhara
-10
-Made in Abyss: Fukaki Tamashii no Reimei
-FOREVER LOST
-MYTH & ROID
-11
-Re:Zero kara Hajimeru Isekai Seikatsu
-theater D
-MYTH & ROID
-12
-Black Lagoon: The Second Barrage
-Preach Headz Addiction
-breath frequency
-13
-Odd Taxi
-ODDTAXI
-Skirt to PUNPEE
-14
-BECK: Mongolian Chop Squad
-brainstorm(BIG MUFF)
-Kazuya Hirabayashi & TATSUZO
-15
-Arifureta Shokugyou de Sekai Saikyou
-Harvest
-Ai Kakuma
-16
-Guilty Crown
-Euterpe
-EGOIST
-17
-Sakura-sou no Pet na Kanojo
-I call your name again
-Mariko Nakatsu
-18
-Oregairu Kan
-Diamond no Jundo
-Saori Hayami & Nao Touyama
-19
-Kekkai Sensen
-World Goes Round
-Hannah Macklin aka MKO
-20
-Katanagatari
-Kotonoha
-Piko
-21
-Kill la Kill
-Gomen ne, Ii ko ja Irarenai.
-Miku Sawai
-22
-Steins;Gate 0
-GATE OF STEINER
-Eri Sasaki
-23
-Clannad
-Dango Daikazoku
-Chata
-24
-Strike the Blood
-Strike my soul
-Yuka Iguchi
-25
-Chainsaw Man
-first death
-TK from Ling Tosite Sigure
-26
-3-gatsu no Lion
-Sayonara Bystander
-YUKI
-27
-Amagami SS
-Anata Shika Mienai
-Hiromi Konno
-28
-Zombie Land Saga
-Mezame RETURNER
-FranChouChou
-29
-Eizouken ni wa Te o Dasu na!
-Namae no Nai Ao
-Kamisama, Boku wa Kizuite Shimatta
-30
-Dororo
-Yamiyo
-Eve
-31
-Shokugeki no Souma: San no Sara
-BRAVER
-ZAQ
-32
-Paradise Kiss
-je t'aime ★ je t'aime
-Tommy february⁶
-33
-Vivy: Fluorite Eye's Song
-Harmony of One's Heart
-Kairi Yagi
-34
-Kimi no Na wa.
-Nandemonaiya movie ver.
-RADWIMPS
-35
-Isekai Quartet
-Hollow Veil
-nonoc
-36
-Bakuman.
-Blue Bird
-Kobukuro
-37
-Another
-anamnesis
-Annabel
-38
-Gekijouban Sword Art Online: Ordinal Scale
-Ubiquitous dB -special ver.-
-Rina Hidaka & Haruka Tomatsu
-39
-Bungo Stray Dogs
-WRIGHT LEFT
-SCREEN mode
-40
-Usagi Drop
-High High High
-Kasarinchu
-41
-Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai
-Fukashigi no Karte movie ver.
-Asami Seto, Nao Touyama, Atsumi Tanezaki, Maaya Uchida, Yurika Kubo, Inori Minase
-42
-Akame ga Kill!
-Liar Mask
-Rika Mayama
-43
-Aria the Natural
-Smile Again
-Erino Hazuki
-44
-Shingeki no Kyojin Season 3
-Name of Love
-cinema staff
-45
-Koukyoushihen Eureka Seven
-Himitsu Kichi
-Kozue Takada
-46
-Danshi Koukousei no Nichijou
-Capsule
-Mix Speaker's,Inc.
-47
-Strike the Blood III
-LOVE STOIC
-Risa Taneda
-48
-K-On!
-Cagayake! GIRLS
-Sakurakou K-On-bu
-49
-Ore no Imouto ga Konnani Kawaii Wake ga Nai
-Imouto Pleease!
-Ayana Taketatsu
-50
-Mousou Dairinin
-Maromi no Theme 1
-Susumu Hirasawa
-51
-Ore Monogatari!!
-Miraikei Answer
-TRUSTRICK
-52
-Bungo Stray Dogs
-Kokoro Furuekeri
-Sakai Reishiu
-53
-Shoujo Shuumatsu Ryokou
-Shoujo Shuumatsu Ryokou -Main Theme-
-MAYUKO & Luminous
-54
-Yamada-kun to 7-nin no Majo
-CANDY MAGIC
-MimimemeMIMI
-55
-Fate/Grand Order: Zettai Majuu Sensen Babylonia
-Prover
-milet
-56
-Kami nomi zo Shiru Sekai: Megami-hen
-God only knows -Secrets of the Goddess- (Extract)
-Oratorio The World God Only Knows
-57
-Akira
-Kaneda
-Geinoh Yamashiro-gumi
-58
-Oregairu Zoku
-Everyday World -Ballade Arrange-Yui Solo Ver.
-Nao Touyama
-59
-Boku no Hero Academia
-THE DAY
-Porno Graffitti
-60
-Shinseiki Evangelion
-FLY ME TO THE MOON
-Megumi Hayashibara
-61
-Gekijouban Mahou Shoujo Madoka★Magica Shinpen: Hangyaku no Monogatari
-Colorful
-ClariS
-62
-HachiKuro
-Ougon no Tsuki
-Shikao Suga
-63
-Samurai Champloo
-battlecry
-Nujabes feat.Shing02
-64
-Nami yo Kiite Kure
-Black Candy Coat
-MIO (MIOSIC)
-65
-Overlord III
-Silent Solitude
-OxT
-66
-Noragami
-Goya no Machiawase
-Hello Sleepwalkers
-67
-Amagami SS+ Plus
-Check my soul
-azusa
-68
-Boku no Hero Academia
-Peace Sign
-Kenshi Yonezu
-69
-Dumbbell Nan-Kilo Moteru?
-Snow Globe
-tea
-70
-Dennou Coil
-Sora no Kakera
-Ayako Ikeda
-71
-Tokyo Ghoul √A
-GLASSY SKY
-Donna Burke
-72
-Charlotte
-Trigger
-ZHIEND
-73
-Yuri!!! on Ice
-Beethoven Kokyoukyoku Dai 9-ban Dai 2-Gakushou 'Kourin' -Kenkoku-ban-
-Taku Matsushiba
-74
-Saiki Kusuo no Psi-nan
-Ψ desu I LIKE YOU
-Dempagumi.inc
-75
-Koukaku Kidoutai S.A.C. 2nd GIG
-What's it for?
-Emily Curtis
-76
-Kino no Tabi: The Beautiful World
-the Beautiful World
-Ai Maeda
-77
 Bakuman.
 WE WISH A MERRY CHRISTMAS
 Saori Hayami
-78
-Drifters
-Hannya Revolution~DRIFTERS ver.~
-YASUSHI ISHII
-79
-Mahou Shoujo Madoka★Magica
-Credens justitiam
-Eri Itou
-80
-Koukaku Kidoutai S.A.C. 2nd GIG
-I do
-Ilaria Graziano
-81
-Noragami Aragoto
-Kyouran Hey Kids!!
-THE ORAL CIGARETTES
-82
-Ansatsu Kyoushitsu
-Seishun Satsubatsuron
-3-nen E-gumi Shuugakuryokou 4-han
-83
-Cyberpunk: Edgerunners
-This Fffire
-FRANZ FERDINAND
-84
-One Outs
-Bury
-Pay money To my Pain
-85
-Gekkan Shoujo Nozaki-kun
-Uraomote Fortune
-Ari Ozawa
-86
-BECK: Mongolian Chop Squad
-FACE
-Kazuya Hirabayashi
-87
-Shingeki no Kyojin Season 2
-Call of Silence
-Gemie
-88
-Karakai Jouzu no Takagi-san 2
-Iwanai kedo ne.
-Rie Takahashi
-89
-Koe no Katachi
-Koi o Shita no wa
-aiko
-90
-BECK: Mongolian Chop Squad
-SPICE OF LIFE
-Kazuya Hirabayashi & TATSUZO
-91
-JoJo no Kimyou na Bouken: Stardust Crusaders
-STAND PROUD
-Jin Hashimoto
-92
-Kubikiri Cycle: Ao-iro Savant to Zaregoto Tsukai
-Märchen
-Kalafina
-93
-Initial D
-ROCK IT DOWN
-move
-94
-Nisekoi
-Souzou Diary
-Nao Touyama, Kana Hanazawa, Mikako Komatsu, Kana Asumi
-95
-Overlord II
-HYDRA
-MYTH & ROID
-96
-Paprika
-Baikai
-Susumu Hirasawa
-97
-Bungo Stray Dogs
-Kaze ga Fuku Machi
-Luck Life
-98
-Chu-2 Byou demo Koi ga Shitai! Ren
-VOICE
-ZAQ
-99
-Elfen Lied
-be your girl
-Chieko Kawabe
-100
-Perfect Blue
-SEASON
-M-VOICE
-1
-Made in Abyss: Retsujitsu no Ougonkyou
-VOH
-Kevin Penkin ft. Takeshi Saito
-2
-Code Geass: Hangyaku no Lelouch R2
-O2
-ORANGE RANGE
-3
-Shoujo☆Kageki Revue Starlight
-Fly Me to the Star
-Suzuko Mimori & Momoyo Koyama
-4
-Angel Beats!
-My Soul,Your Beats!
-LiSA
-5
-Nagi no Asukara
-Aqua Terrarium
-Nagi Yanagi
-6
-JoJo no Kimyou na Bouken: Diamond wa Kudakenai
-chase
-batta
-7
-Kanata no Astra
-Astra-gou no Bouken
-Saori Hayami
-8
-Fate/stay night
-Anata ga Ita Mori
-Jyukai
-9
-Nagi no Asukara
-lull ~Earth color of a calm~
-Ray
-10
-Durarara!!×2 Ketsu
-Joker ni Yoroshiku
-PENGUIN RESEARCH
-11
-Yakusoku no Neverland
-Touch off
-UVERworld
-12
-Tokyo Ghoul:re
-Rakuen no Kimi
-österreich
-13
-Uchuu Kyoudai
-BEYOND
-Miho Fukuhara
-14
-Kami nomi zo Shiru Sekai
-Happy Crescent
-Nao Touyama
-15
-Durarara!!×2 Shou
-HEADHUNT
-OKAMOTO'S
-16
-Great Pretender
-G.P.
-Yutaka Yamada
-17
-Nichijou
-Ano Subarashii Ai o Mou Ichido
-Sayaka Sasaki
-18
-Mawaru Penguindrum
-Nornir
-Etsuko Yakushimaru Metro Orchestra
-19
-Darling in the FranXX
-Battle Cry
-Dj L-Spade
-20
-Hajime no Ippo
-under star
-Shocking Lemon
-21
-Babylon
-Inochi Hamu Tamashii
-Q-MHz feat. Mikako Komatsu
-22
-Oregairu
-Yukitoki
-Nagi Yanagi
-23
-Fruits Basket 2nd Season
-Eden
-MONKEY MAJIK
-24
-Boku-tachi wa Benkyou ga Dekinai!
-Kankei≧Houteishiki
-Study
-25
-Odd Taxi
-Sugarless Kiss
-Suzuko Mimori
-26
-Fate/stay night: Unlimited Blade Works
-ring your bell
-Kalafina
-27
-Asobi Asobase
-Inkya Inplus
-Hina Kino, Rika Nagae, Konomi Kohara feat. Ikepy & KSKN
-28
-Fruits Basket 2nd Season
-Haseru Mirai
-Uta Arii
-29
-Toradora!
-Vanilla Salt
-Yui Horie
-30
-Chihayafuru 2
-Akanezora
-Asami Seto
-31
-Youjo Senki
-Sensen no Realism
-Mako Niina
-32
-Koukaku Kidoutai: Stand Alone Complex
-run rabbit junk
-HIDE
-33
-Bakuman.
-Moshimo no Hanashi
-nano.RIPE
-34
-Nisemonogatari
-Futakotome
-Chiwa Saito
-35
-Maison Ikkoku
-Sunny Shiny Morning
-Kiyonori Matsuo
-36
-High School DxD BorN
-BLESS YoUr NAME
-ChouCho
-37
-Rakudai Kishi no Cavalry
-Kakusei no Muishiki
-Mikio Sakai
-38
-No Game No Life Zero
-Mata Game Shiyouze ~Shinsekai no Hikari
-Nataliya Gudziy
-39
-Hagane no Renkinjutsushi: Brotherhood
-RAY OF LIGHT
-Shoko Nakagawa
-40
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
-Fukashigi no Karte
-Asami Seto
-41
-Vivy: Fluorite Eye's Song
-Sing My Pleasure (Grace Ver.)
-Hikari Codama
-42
-FLCL
-I think I can
-the pillows
 43
-Bakemonogatari
-sugar sweet nightmare
-Yui Horie
+Tate no Yuusha no Nariagari
+Kimi no Namae
+Chiai Fujikawa
 44
-Cop Craft
-My Spirit Aches
-TAKUMI iwasaky
+Kobayashi-san Chi no Maid Dragon
+Aozora no Rhapsody
+fhána
 45
-Irozuku Sekai no Ashita kara.
-17-sai
-Haruka to Miyuki
+Dumbbell Nan-Kilo Moteru?
+Onegai Muscle
+Fairouz Ai & Kaito Ishikawa
 46
-Gosick
-Destin Histoire
-yoshiki*lisa
+Eizouken ni wa Te o Dasu na!
+Easy Breezy
+chelmico
 47
-Zoku Natsume Yuujinchou
-Ano Hi Time Machine
-LONG SHOT PARTY
+Nami yo Kiite Kure
+Believe In Myself
+Harumi
 48
-Yoru wa Mijikashi Aruke yo Otome
-Kouya o Aruke
-ASIAN KUNG-FU GENERATION
+Dr. Stone
+One Small Step
+Laura Pitt-Pulford
 49
-Shokugeki no Souma
-Sacchan no Sexy Curry
-Seiko Oomori
+Bakuman.
+BAKUROCK ~Mirai no Rinkakusen~
+YA-KYIM
 50
-Kono Subarashii Sekai ni Shukufuku o! 2
-TOMORROW
-Machico
+Bakuman.
+Yume Sketch
+JAM Project
 51
-Amagami SS
-Suteki na Aru Hi
-Kana Asumi
+Kamisama Hajimemashita◎
+Ototoi Oide
+Hanae
 52
-Haikyu!! To the Top
-PHOENIX
-BURNOUT SYNDROMES
+No Game No Life Zero
+Zutto Zutto Soba ni Isasete Kudasai
+Nataliya Gudziy
 53
-Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.
-Dear Love
-REMEDIOS
+High Score Girl II
+Ano Nami o Koete
+Takenobu Mitsuyoshi
 54
-Great Pretender
-Someday
-YVY ft. Emarie
-55
-Shokugeki no Souma: Ni no Sara
-Snow Drop
-nano.RIPE
-56
-Hitoribocchi no Marumaruseikatsu
-Bakushou Bocchi Juku Kouka
-Chisaki Morishita, Minami Tanaka, Akari Kitou, Yuuko Kurose
-57
-Durarara!!
-Crazy Magic
-NAMI with Shige×2＆S/N
-58
-Shokugeki no Souma: San no Sara
-Symbol
-Luck Life
-59
-Aria the Animation
-Undine -forest mix-
-Yui Makino
-60
-Blend-S
-Instant Mermaid
-Akari Kitou
-61
 Gyakkyou Burai Kaiji
 Mirai wa Bokura no Te no Naka
 Masato Hagiwara with Red Bonchiris
+55
+Cyberpunk: Edgerunners
+DOM
+ZJEDNOCZENIE SOUNDSYSTEM FEAT. DAMIAN SYJONFAM
+56
+Usagi Drop
+Hajime no Ippo
+Suginami Jidou Gasshou-dan
+57
+Code Geass: Hangyaku no Lelouch R2
+Waga Routashi Aku no Hana
+ALI PROJECT
+58
+Darker than Black: Ryuusei no Gemini
+From Dusk Till Dawn
+abingdon boys school
+59
+Ao no Exorcist Gekijouban
+REVERSI
+UVERworld
+60
+Grisaia no Rakuen
+Tasogare no Starlight
+Yoshino Nanjo
+61
+Great Teacher Onizuka
+Ichiman Anguwa
+Nēnēs
 62
-Gokukoku no Brynhildr
-BRYNHILDR IN THE DARKNESS -Ver. EJECTED-
-Nao Tokisawa
-63
-Hagane no Renkinjutsushi: Brotherhood
-Uso
-SID
-64
-Trigun
-H.T.
-Tsuneo Imahori
-65
-Boku dake ga Inai Machi
-Re:Re:
-ASIAN KUNG-FU GENERATION
-66
 Spy × Family
 Mixed Nuts
 Official HIGE DANdism
+63
+Fune o Amu
+Jishozukuri no Uta ~We are Jisho-tans~
+Jisho-tans
+64
+Toradora!
+Vanilla Salt
+Yui Horie
+65
+Clannad After Story
+Komorebi
+riya
+66
+Tokyo Ghoul:re
+unravel
+TK from Ling Tosite Sigure
 67
-Banana Fish
-FREEDOM
-BLUE ENCOUNT
+High School DxD BorN
+BLESS YoUr NAME
+ChouCho
 68
-Araburu Kisetsu no Otome-domo yo.
-Koibito Tsunagi
-CHiCO with HoneyWorks
+Hunter x Hunter
+departure!
+Masatoshi Ono
 69
-Karakai Jouzu no Takagi-san
-Kimagure Romantic
-Rie Takahashi
+Lost Song
+Aoku Kiyoki Mizu no Uta
+Yukari Tamura
 70
-Nanatsu no Taizai
-Seven Deadly Sins
-MAN WITH A MISSION
+Given
+session
+the seasons
 71
-3-gatsu no Lion
-Flag o Tatero
-YUKI
+Black Lagoon
+Red fraction
+MELL
 72
-Cowboy Bebop: Tengoku no Tobira
-Diggin'
-Seatbelts featuring Steve Conte
+Chihayafuru 2
+STAR
+99RadioService
 73
-Devilman Crybaby
-Konya dake
-Takkyuu to Tabibito
+Strike the Blood II
+Blood on the EDGE
+Kishida Kyoudan &THE Akeboshi Rockets
 74
-NHK ni Youkoso!
-Youkoso! Hitoribocchi
-Pearl Kyoudai
+Bakuman.
+Blue Bird
+Kobukuro
 75
+Ao no Exorcist Gekijouban
+Battle Scars
+David Whitaker
+76
+Mob Psycho 100 II
+99.9
+MOB CHOIR feat. sajou no hana
+77
+Rainbow: Nisha Rokubou no Shichinin
+A FAR-OFF DISTANCE
+GALNERYUS
+78
+Grisaia no Kajitsu
+Rakuen no Tsubasa
+Maon Kurosaki
+79
+Made in Abyss: Fukaki Tamashii no Reimei
+Tozo Hanoline
+Kevin Penkin ft. Úyanga Bold
+80
+Fate/Zero
+to the beginning
+Kalafina
+81
+Ore no Imouto ga Konnani Kawaii Wake ga Nai.
+Monochrome☆HAPPY DAY
+Kana Hanazawa
+82
+Shouwa Genroku Rakugo Shinjuu
+Kawa, Taredoki
+Kana Shibue
+83
+Haikyu!!
+Ah Yeah!!
+Sukima Switch
+84
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+Beautiful Soldier
+Minami
+85
+Tokyo Ghoul √A
+Colour My World
+Julia Shortreed
+86
+Kaiba
+the tree song
+Minako"mooki"Obata
+87
+Mawaru Penguindrum
+Daddy's Shoes
+Triple H
+88
+Cyberpunk: Edgerunners
+NIGHT CITY ALIENS
+THE ARMED
+89
+Amagami SS
+Suteki na Aru Hi
+Kana Asumi
+90
+Chu-2 Byou demo Koi ga Shitai!
+Sparkling Daydream
+ZAQ
+91
+Interstella 5555
+Something About Us
+Daft Punk
+92
+Bakuman.
+23-ji 40-pun
+Hyadain feat. Base Ball Bear
+93
+Darker than Black: Ryuusei no Gemini
+Kanashiki Yume no Maki
+Kana Hanazawa
+94
+Koukaku Kidoutai
+One Minute Warning
+Passengers
+95
+Seihou Bukyou Outlaw Star
+Hiru no Tsuki ~ FOR Melfina MIX
+Ayako Kawasumi
+96
+Carole & Tuesday
+All I Want
+Alisa
+97
+Hajime no Ippo
+360°
+Naoya Mori
+98
+Yuri!!! on Ice
+Shall We Skate?
+Taku Matsushiba feat. The Soulmatics
+99
+Shingeki no Bahamut: Genesis
+EXiSTENCE
+SiM
+100
+Date A Live II
+Mermaid Lovestory
+Minori Chihara
+1
+Hajime no Ippo
+Ultra Seven no Uta 99
+Isao Sasaki
+2
+Tengen Toppa Gurren Lagann
+'Libera me' from hell
+Yuri Kasahara & Tarantula
+3
+Asobi Asobase
+Inkya Inplus
+Hina Kino, Rika Nagae, Konomi Kohara feat. Ikepy & KSKN
+4
+Strike the Blood III
+Blood and Emotions
+Kishida Kyoudan &THE Akeboshi Rockets
+5
 Jujutsu Kaisen
-Entertain Us
-RIN
+Fight Again
+Chica
+6
+Golden Time
+Haneikyuu-teki ni Aishite yo♡
+Yui Horie
+7
+Golden Boy
+Opening
+Joyo Katayanagi
+8
+K-On!
+Watashi no Koi wa Hotchkiss
+Ho-Kago Tea Time
+9
+Tensei shitara Slime Datta Ken
+Nameless Story
+Takuma Terashima
+10
+Aria the Natural
+Undine ~Hikigatari ver~
+Yui Makino
+11
+Araburu Kisetsu no Otome-domo yo.
+Otome-domo yo.
+CHiCO with HoneyWorks
+12
+3-gatsu no Lion
+Nyaa Shougi Ondo
+Kana Hanazawa, Ai Kayano, Misaki Kuno
+13
+Black Lagoon: The Second Barrage
+Can-Nana Fever
+Guitar Wolf
+14
+Hyouge Mono
+Naghol Jumping
+quasimode
+15
+Tonari no Kaibutsu-kun
+White Wishes
+9nine
+16
+Ore no Imouto ga Konnani Kawaii Wake ga Nai
+Shiroi Kokoro
+Saori Hayami
+17
+Toaru Kagaku no Railgun S
+stand still
+Yuka Iguchi
+18
+Strike the Blood III
+LOVE STOIC
+Risa Taneda
+19
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+Sentimental Crisis
+halca
+20
+Chihayafuru 3
+COLORFUL
+99RadioService
+21
+Barakamon
+Rashisa
+SUPER BEAVER
+22
+Koukaku Kidoutai S.A.C. 2nd GIG
+Cyber Bird
+Gabriela Robin
+23
+Beastars
+Between the Soil & Skyline
+Aztech
+24
+Paradise Kiss
+Romantic na Speed de
+THE BABYS
+25
+Karakai Jouzu no Takagi-san
+100% Kataomoi
+Osaki-san to Tsutsumi-kun
+26
+Ima, Soko ni Iru Boku
+Komoriuta...
+Reiko Yasuhara
+27
+Kimi ni Todoke
+Kataomoi
+Chara
+28
+Cowboy Bebop: Tengoku no Tobira
+Is it real?
+Seatbelts featuring Scott Matthew
+29
+Kami nomi zo Shiru Sekai
+Tatta Ichido no Kiseki
+Tomo Sakurai
+30
+Code Geass: Hangyaku no Lelouch
+Picaresque
+Mikio Sakai
+31
+Fate/stay night
+La Sola
+Hisako Sasaki
+32
+Chihayafuru
+YOUTHFUL ~from Studio Yamato~
+99RadioService
+33
+Grisaia no Meikyuu
+Grimm
+Faylan
+34
+Versailles no Bara
+Bara wa Utsukushiku Chiru
+Hiroko Suzuki
+35
+Shinseiki Evangelion Gekijouban: The End of Evangelion - Air/Magokoro o, Kimi ni
+Komm, süsser Tod
+ARIANNE
+36
+Zankyou no Terror
+von
+Yoko Kanno feat. Arnór Dan
+37
+Hinamatsuri
+Shashinchou
+Yoko Ishida
+38
+Katanagatari
+Bahasa Palus
+Yutaka Fukuoka & Lotus Juice
+39
+Irozuku Sekai no Ashita kara.
+17-sai
+Haruka to Miyuki
+40
+Noragami Aragoto
+Nirvana
+Tia
+41
+Joshiraku
+Nippon Egao Hyakkei
+Momokurotei Ichimon
+42
+Mawaru Penguindrum
+Daddy's Shoes
+Triple H
+43
+Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.
+Circle Game
+Galileo Galilei
+44
+Bakuman.
+Zettai☆Shoujo Shugi!!
+St. Visual Jogakuin Gasshou-bu starring Saori Hayami to Seibijyo-tai
+45
+Kobayashi-san Chi no Maid Dragon
+Ishukan Communication
+Chorogons
+46
+Toaru Kagaku no Railgun S
+Links
+Sachika Misawa
+47
+Ansatsu Kyoushitsu Final Season
+Bye Bye YESTERDAY
+3-nen E-gumi Utatan
+48
+Mob Psycho 100 II
+Mabuta no Ura
+sajou no hana
+49
+Keijo!!!!!!!!
+DREAM×SCRAMBLE!
+AiRI
+50
+Dororo
+Kaen
+Ziyoou-vachi
+51
+Strike the Blood II
+Blood on the EDGE
+Kishida Kyoudan &THE Akeboshi Rockets
+52
+Dororo
+Dororo
+ASIAN KUNG-FU GENERATION
+53
+Elfen Lied
+LILIUM
+Kumiko Noma
+54
+Sword Art Online: Alicization
+forget-me-not
+ReoNa
+55
+No Guns Life
+MOTOR CITY
+Kenichi Asai
+56
+Tokyo Ghoul:re
+Willpower
+Future Sunsets
+57
+Kamisama Kiss
+Kamisama Hajimemashita
+Hanae
+58
+Oregairu Kan
+Diamond no Jundo ~Yukino Ballade~
+Saori Hayami
+59
+Drifters
+Hannya Revolution~DRIFTERS ver.~
+YASUSHI ISHII
+60
+KimiUso
+My Truth ~Rondo Capriccioso
+ENA
+61
+Absolute Duo
+Apple Tea no Aji
+Nozomi Yamamoto×Haruka Yamazaki
+62
+Zankyou no Terror
+Trigger
+Yuuki Ozaki(from Galileo Galilei)
+63
+Hagane no Renkinjutsushi: Brotherhood
+Hologram
+NICO Touches the Walls
+64
+Durarara!!×2 Ten
+EXIT
+REVALCY
+65
+Hotaru no Haka
+Hanyuu no Yado
+Amelita Galli-Curci
+66
+Golden Time
+Golden Time
+Yui Horie
+67
+Eizouken ni wa Te o Dasu na!
+Namae no Nai Ao
+Kamisama, Boku wa Kizuite Shimatta
+68
+Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.
+Still...
+REMEDIOS
+69
+Nami yo Kiite Kure
+aranami
+tacica
+70
+High School DxD
+STUDY×STUDY
+StylipS
+71
+HachiKuro
+Sorosoro Ikanakucha
+Shikao Suga
+72
+Boku no Hero Academia
+THE DAY
+Porno Graffitti
+73
+Sora no Otoshimono
+Yuke! Yuke! Kawaguchi Hiroshi
+Tatsuo Kamon
+74
+Tanaka-kun wa Itsumo Kedaruge
+Utatane Sunshine
+Unlimited tone
+75
+Shingeki no Kyojin Season 2
+Call of Silence
+Gemie
+76
+Shinseiki Evangelion
+FLY ME TO THE MOON
+Megumi Hayashibara
+77
+Sakamichi no Apollon
+Sakamichi no Melody
+YUKI
+78
+Trigun
+Sound Life ~ REM
+AJA
+79
+Koukyoushihen Eureka Seven
+Canvas
+COOLON
+80
+Fate/Zero
+MEMORIA
+Eir Aoi
+81
+Owarimonogatari
+SHIORI
+ClariS
+82
+Spy × Family
+Kigeki
+Gen Hoshino
+83
+91 Days
+Signal
+TK from Ling Tosite Sigure
+84
+DanMachi II
+Sasayaka na Shukusai
+sora tob sakana
+85
+Fruits Basket
+One Step Closer
+INTERSECTION
+86
+Hyouka
+Mikansei Stride
+Saori Kodama
+87
+Asobi Asobase
+Three-Piece
+Hina Kino, Rika Nagae, Konomi Kohara
+88
+Mermaid Melody: Pichi Pichi Pitch
+Taiyou no Rakuen ~Promised Land~
+Miyuki Kanbe
+89
+Oregairu Zoku
+Harumodoki
+Nagi Yanagi
+90
+Ore no Imouto ga Konnani Kawaii Wake ga Nai
+Orange
+Ayana Taketatsu
+91
+Lost Song
+Utaeba Soko ni Kimi ga Iru kara ~Song for you~
+Konomi Suzuki
+92
+Hajime no Ippo
+360°
+Naoya Mori
+93
+Bakemonogatari
+Renai Circulation
+Kana Hanazawa
+94
+Toaru Kagaku no Accelerator
+Shadow is the Light
+THE SIXTH LIE
+95
+Fate/stay night: Unlimited Blade Works
+Brave Shine
+Aimer
+96
+Gankutsuou: The Count of Monte Cristo
+We Were Lovers
+Jean-Jacques Burnel
+97
+Shokugeki no Souma: San no Sara
+Atria
+Fo'xTails
+98
+Chu-2 Byou demo Koi ga Shitai! Ren
+Van!shment Th!s World
+Black Raison d'être
+99
+Sword Art Online: Alicization
+Iris
+Eir Aoi
+100
+Shinseiki Evangelion Gekijouban: The End of Evangelion - Air/Magokoro o, Kimi ni
+THANATOS -IF I CAN'T BE YOURS-
+LOREN&MASH
+1
+Karakai Jouzu no Takagi-san 2
+Iwanai kedo ne.
+Rie Takahashi
+2
+Dr. Stone
+Yume no You na
+Yusuke Saeki
+3
+Ao no Exorcist: Kyoto Fujouou-hen
+Kono Te de
+Rin Akatsuki
+4
+Durarara!!
+Butterfly
+ON/OFF
+5
+Maison Ikkoku
+Get Down
+Gilbert O'Sullivan
+6
+Bakuman.
+Dream of Life
+Shohei Ito
+7
+Code Geass: Hangyaku no Lelouch R2
+Z.E.R.O.
+BLUE ENCOUNT
+8
+Planetes
+A Secret Of The Moon
+Hitomi Kuroishi
+9
+No Game No Life
+This game
+Konomi Suzuki
+10
+Nisekoi:
+TrIGgER
+Mikako Komatsu
+11
+Orange
+Mirai
+Kobukuro
+12
+Seiren
+Kimi no Hana
+Hanako Oku
+13
+Seihou Bukyou Outlaw Star
+Hiru no Tsuki
+Akino Arai
+14
+Tengen Toppa Gurren Lagann
+Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564)
+qadtbep
+15
+Katanagatari
+Toki Sude ni Hajimari o Kizamu
+Minami Kuribayashi
+16
+Date A Live IV
+OveR
+Miyu Tomita
+17
+Ousama Game The Animation
+FEED THE FIRE
+coldrain
+18
+JoJo no Kimyou na Bouken: Ougon no Kaze
+canzoni preferite
+Daisuke Hasegawa
+19
+Mecha-Ude
+ALONE
+AZLiGHTZ
+20
+Nana
+Starless Night
+OLIVIA inspi' REIRA(TRAPNEST)
+21
+Toaru Majutsu no Index III
+Gravitation
+Maon Kurosaki
+22
+Durarara!!×2 Shou
+NEVER SAY NEVER
+THREE LIGHTS DOWN KINGS
+23
+Michiko to Hatchin
+Temporada das frutas
+Aurea Martins
+24
+Ping Pong The Animation
+Midnight Flight -Hitoribocchi no Christmas Eve-
+Shogo Hamada
+25
+Overlord II
+HYDRA
+MYTH & ROID
+26
+Redline
+Let me love you
+James Shimoji feat.Veronica Torraca-Bragdon
+27
+Shingeki no Kyojin
+The Reluctant Heroes
+mpi
+28
+Kami nomi zo Shiru Sekai II
+Uraha Love
+Nao Touyama
+29
+Amagami SS+ Plus
+Check my soul
+azusa
+30
+Shoujo Kakumei Utena
+Dona Dona
+Yasui Kazumi, NHK Tokyo Jidou Gasshou-dan
+31
+Blend-S
+Detarame na Minus to Plus ni Okeru Blend-kou
+Blend・A
+32
+Isekai Quartet 2
+Isekai Showtime
+Satoshi Hino, Jun Fukushima, Yuusuke Kobayashi, Aoi Yuuki
+33
+Natsume Yuujinchou Roku
+Kimi no Uta
+Rei Yasuda
+34
+Log Horizon
+Wonderful Wonder World*
+Yun*chi
+35
+Shoujo☆Kageki Revue Starlight
+The Star Knows
+Momoyo Koyama & Hinata Satou
+36
+Charlotte
+Kimi no Moji
+Anri Kumaki
+37
+BECK: Mongolian Chop Squad
+Nakimushi Kaikyou
+Sachiko Shiina
+38
+Hataage! Kemono Michi
+Fight! Kemoner Mask
+NoB with Katsuyuki Konishi
+39
+Kono Oto Tomare!
+Rainbow
+Yuuma Uchida
+40
+Kimi no Na wa.
+Zen Zen Zense movie ver.
+RADWIMPS
+41
+Initial D
+Kiseki no Hana
+Galla
+42
+Clannad
+Kaze no Shoujo
+riya
+43
+Sword Art Online Alternative: Gun Gale Online
+Disorder
+ReoNa
+44
+Toaru Majutsu no Index II
+See visionS
+Mami Kawada
+45
+Hitoribocchi no Marumaruseikatsu
+Ne, Issho ni Kaero.
+Chisaki Morishita
+46
+Dumbbell Nan-Kilo Moteru?
+Onegai Muscle
+Fairouz Ai & Kaito Ishikawa
+47
+Mahoutsukai no Yome
+Kimi no Yukue
+KOCHO
+48
+High Score Girl II
+Unknown World Map
+Etsuko Yakushimaru
+49
+Gekijouban Sword Art Online: Ordinal Scale
+Ubiquitous dB -special ver.-
+Rina Hidaka & Haruka Tomatsu
+50
+Psycho-Pass
+abnormalize
+Ling Tosite Sigure
+51
+Paprika
+Byakkoya
+Susumu Hirasawa
+52
+Darker than Black: Ryuusei no Gemini
+Gekkou Bosatsu no Namida
+Yasushi Ishii
+53
+Toaru Kagaku no Railgun T
+Koko ni Itai
+sajou no hana
+54
+KimiUso
+Étude Op. 25 No. 11 (Winter Wind)
+Frédéric Chopin
+55
+Cyberpunk: Edgerunners
+NIEWAŻNE
+DIEGO CICHY DON FEAT. MARTYNA BARANOWSKA
+56
+Noragami
+Heart Realize
+Tia
+57
+Monogatari Series Second Season
+Sono Koe o Oboeteru
+Marina Kawano
+58
+One Punch Man
+Kanashimi-tachi o Dakishimete
+Hiroko Moriguchi
+59
+Dennou Coil
+Prism
+Ayako Ikeda
+60
+Haikyu!!
+Ah Yeah!!
+Sukima Switch
+61
+Sayonara Zetsubou Sensei
+Hito Toshite Jiku ga Bureteiru
+Kenji Ohtsuki to Zetsubou Shoujo-tachi
+62
+Sword Art Online Alternative: Gun Gale Online
+Hikari
+ReoNa
+63
+Isekai Quartet
+Isekai Quartet
+Satoshi Hino, Jun Fukushima, Yuusuke Kobayashi, Aoi Yuuki
+64
+Grand Blue
+Grand Blue
+Shonan no Kaze
+65
+Karakai Jouzu no Takagi-san 2
+Anata ni
+Rie Takahashi
+66
+Angel Beats!
+Thousand Enemies
+Girls Dead Monster (LiSA)
+67
+Shoujo Kakumei Utena
+Fuuin Jubaku
+Suginami Jidou Gasshou-dan, Maki Kamiya, Kunihiko Ikuhara, Shinkichi Mitsumune
+68
+Sora no Otoshimono: Forte
+not Moteotoko Fuyugeshiki
+Soichiro Hoshi
+69
+Kyoukai no Kanata
+Yakusoku no Kizuna
+Risa Taneda, Minori Chihara, Yuri Yamaoka
+70
+Tate no Yuusha no Nariagari
+Falling Through Starlight
+Asami Seto
+71
+FLCL
+Ride on shooting star
+the pillows
+72
+BECK: Mongolian Chop Squad
+My World Down
+meister feat. Mark Gardener
+73
+Darling in the FranXX
+Escape
+XX:me
+74
+Log Horizon
+Your song*
+Yun*chi
+75
+Blood Lad
+ViViD
+May'n
+76
+Cop Craft
+My Spirit Aches
+TAKUMI iwasaky
+77
+Shigatsu wa Kimi no Uso: Moments
+Senobi ~Nemureru Mori no Bijo no "Adagio"
+ENA
+78
+Rokuhoudou Yotsuiro Biyori
+Sakura-iro Cliché
+aki
+79
+Ore Monogatari!!
+Miraikei Answer
+TRUSTRICK
+80
+Kekkai Sensen
+Hello,world!
+BUMP OF CHICKEN
+81
+Tsuki ga Kirei
+Mirai e
+Nao Touyama
+82
+Hellsing Ultimate
+A PATRIOT WITH NO NAME
+Warsaw Philharmonic Orchestra
+83
+Mahou Shoujo Madoka★Magica
+Ave Maria
+Bach/Gounod
+84
+Koukaku Kidoutai: Stand Alone Complex
+Velveteen
+Ilaria Graziano
+85
+Jujutsu Kaisen
+Kaikai Kitan
+Eve
+86
+Monster
+GRAIN
+Kuniaki Haishima
+87
+Fate/Zero
+the sword of promised victory ~Fate/Zero ver.
+Eri Itou
+88
+Kami nomi zo Shiru Sekai
+Koi no Shirushi
+Kami nomi zo Shiri-tai feat. Kana Hanazawa
+89
+BECK: Mongolian Chop Squad
+Koijikake no Waltz
+Gymnopedie
+90
+Bokurano
+Uninstall
+Chiaki Ishikawa
+91
+Sakura-sou no Pet na Kanojo
+Suimei Geijutsu Daigaku Fuzoku Koutou Gakkou Kouka
+Suimei Koukou Seito Ichidou
+92
+Freezing Vibration
+Vent debout
+Zaniboni
+93
+Date A Live III
+I swear
+sweet ARMS
+94
+Nanatsu no Taizai: Imashime no Fukkatsu
+Ame ga Furu kara Niji ga Deru
+Sky Peace
+95
+Oregairu
+Hello Alone -Band arrange-
+Saori Hayami & Nao Touyama
+96
+Shingeki! Kyojin Chuugakkou
+Seishun wa Hanabi no You ni
+Linked Horizon
+97
+Death Note
+Zetsubou Billy
+Maximum the Hormone
+98
+Log Horizon
+database
+MAN WITH A MISSION feat. TAKUMA (10-FEET)
+99
+Sora yori mo Tooi Basho
+The Girls Are Alright!
+saya
+100
+Clannad After Story
+Chiisana Tenohira
+riya
+1
+Shinseiki Evangelion
+FLY ME TO THE MOON
+Yoko Takahashi
+2
+DanMachi
+Hey World
+Yuka Iguchi
+4
+Bungo Stray Dogs
+Namae o Yobu yo
+Luck Life
+5
+Nisekoi
+Souzou Diary
+Nao Touyama, Kana Hanazawa, Mikako Komatsu, Kana Asumi
+6
+Mahoutsukai Reimeiki
+dawn of infinity
+fripSide
+7
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
+Fukashigi no Karte
+Nao Touyama
+8
+Chainsaw Man
+KICK BACK
+Kenshi Yonezu
+9
+Strike the Blood II
+Blood on the EDGE
+Kishida Kyoudan &THE Akeboshi Rockets
+10
+Tate no Yuusha no Nariagari
+Falling Through Starlight
+Asami Seto
+11
+Chihayafuru 2
+Akanezora
+Asami Seto
+12
+Rokuhoudou Yotsuiro Biyori
+Sakura-iro Cliché
+aki
+13
+Shokugeki no Souma
+Rising Rainbow
+Misokkasu
+14
+Saiki Kusuo no Psi-nan
+Ψ-lent Prisoner
+Saiki-kku Lover feat. Hiroshi Kamiya, Daisuke Ono, Nobunaga Shimazaki
+15
+Ookami to Koushinryou II
+Mitsu no Yoake
+Akino Arai
+16
+Princess Tutu
+Watashi no Ai wa Chiisai Keredo
+Ritsuko Okazaki
+17
+Koe no Katachi
+Koi o Shita no wa
+aiko
+18
+Fruits Basket 2nd Season
+Haseru Mirai
+Uta Arii
+19
+Fruits Basket 2nd Season
+HOME
+Asako Toki
+20
+BECK: Mongolian Chop Squad
+MOON ON THE WATER
+Sowelu
+21
+Amagami SS
+Anata Shika Mienai
+Hiromi Konno
+22
+Karakai Jouzu no Takagi-san 2
+Kanade
+Rie Takahashi
+23
+Boku no Hero Academia
+Update
+miwa
+24
+Overlord II
+GO CRY GO
+OxT
+25
+Kami nomi zo Shiru Sekai: Megami-hen
+Kizuna no Yukue feat. Ayumi Takahara
+Ayana Taketatsu
+26
+Psycho-Pass
+abnormalize
+Ling Tosite Sigure
+27
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+Sentimental Crisis
+halca
+1
+Bakemonogatari
+Renai Circulation
+Kana Hanazawa
+2
+Bungo Stray Dogs
+Kante
+Nahoko Kakiage
+3
+Psycho-Pass
+All Alone With You
+EGOIST
+4
+Blend-S
+Instant Mermaid
+Akari Kitou
+5
+JoJo no Kimyou na Bouken: Stardust Crusaders
+JoJo Sono Chi no Kioku ~end of THE WORLD~
+JO☆STARS~TOMMY,Coda,JIN~
+6
+Saijaku Muhai no Bahamut
+Lime Tree
+nano.RIPE
+7
+Gekijouban Trinity Seven: Tenkuu Toshokan to Shinku no Maou
+Against The Abyss
+ZAQ
+8
+Initial D
+DANCING
+VICKY VALE
+9
+Mousou Dairinin
+Maromi no Theme 1
+Susumu Hirasawa
+10
+Fate/stay night: Unlimited Blade Works
+ring your bell
+Kalafina
+11
+Kamisama Hajimemashita
+Sakura Mikotoba
+Hanae
+12
+Tengen Toppa Gurren Lagann
+Minna no Peace
+Afromania
+13
+Sora no Otoshimono: Forte
+COSMOS
+blue drops
+14
+Blood Lad
+BLOODY HOLIC
+Yuuka Nanri
+15
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai
+Fukashigi no Karte
+Nao Touyama
+16
+Bungo Stray Dogs
+Good For Nothing
+Lotus Juice
+17
+Gin no Saji
+Hello Especially
+Sukima Switch
+18
+Kyokou Suiri
+Kaen Housha-ki to Watashi
+Sumire Uesaka
+19
+FLCL
+CARNIVAL
+the pillows
+20
+Owarimonogatari
+mein schatz
+mito
+21
+Fate/stay night
+Kirameku Namida wa Hoshi ni
+Sachi Tainaka
+22
+Boku-tachi wa Benkyou ga Dekinai
+Never Give It Up!!
+Study
+23
+Boku no Hero Academia
+HEROES
+Brian the Sun
+24
+DanMachi
+RIGHT LIGHT RISE
+Kanon Wakeshima
+25
+BECK: Mongolian Chop Squad
+Don't you mess with me
+Kazuya Hirabayashi
+26
+Chihayafuru 3
+COLORFUL
+99RadioService
+27
+Nejimaki Seirei Senki: Tenkyou no Alderamin
+Tenkyou no Alderamin
+Kishida Kyoudan &THE Akeboshi Rockets
+28
+Kizumonogatari II: Nekketsu-hen
+étoile et toi
+Clémentine
+29
+Date A Live
+Koi no EveryDay☆HappyDay
+Ayana Taketatsu
+30
+Oregairu Kan
+Yukitoki
+Nagi Yanagi
+31
+Kenpuu Denki Berserk
+Waiting So Long
+Silver Fins
+32
+Dororo
+Yamiyo
+Eve
+33
+Seiren
+Muteki no Megami
+Shino Shimoji
+34
+Nana
+Wish
+OLIVIA inspi' REIRA(TRAPNEST)
+35
+Chu-2 Byou demo Koi ga Shitai! Ren
+Van!shment Th!s World
+Black Raison d'être
+36
+Bungo Stray Dogs
+Setsuna no Ai
+GRANRODEO
+37
+Shinseiki Evangelion
+FLY ME TO THE MOON -4 BEAT OFF VOCAL VERSION-
+Toshiyuki Omori
+38
+Natsume Yuujinchou Go
+Akane Sasu
+Aimer
+39
+Michiko to Hatchin
+Papo Cafajeste
+Manu Valdez
+40
+Hataage! Kemono Michi
+Fight! Kemoner Mask
+NoB with Katsuyuki Konishi
+41
+Hataraku Maou-sama!
+Tsumabiku Hitori
+nano.RIPE
+42
+Great Pretender
+The Great Pretender
+Freddie Mercury
+43
+Sora no Otoshimono
+Haru Ichiban
+Saori Hayami, Iori Nomizu, Mina
+44
+Shirobako
+Takarabako -TREASURE BOX-
+Masami Okui
+45
+Yagate Kimi ni Naru
+Suki, Igai no Kotoba de
+Yuuki Takada & Minako Kotobuki
+46
+Gankutsuou: The Count of Monte Cristo
+Waltz (waltz in blue)
+Jean-Jacques Burnel
+47
+Koukaku Kidoutai S.A.C. 2nd GIG
+I Can't Be Cool
+Ilaria Graziano
+48
+Karakai Jouzu no Takagi-san
+Chiisana Koi no Uta
+Rie Takahashi
+49
+Cowboy Bebop
+Tank!
+Seatbelts
+50
+Kaichou wa Maid-sama!
+Yokan
+heidi.
+51
+Nodame Cantabile
+Konna ni Chikaku de...
+Crystal Kay
+52
+Cyberpunk: Edgerunners
+WHERE DID YOUR LOVE GO
+DAWID PODSIADŁO
+53
+Ergo Proxy
+kiri
+MONORAL
+54
+Beastars
+Wild Side
+ALI
+55
+Cowboy Bebop
+ADIEU
+Emily Bindiger
+56
+Hinamatsuri
+Sake to Ikura to 893 to Musume
+Yoshiki Nakajima
+57
+Vivy: Fluorite Eye's Song
+Galaxy Anthem
+Kairi Yagi
+58
+Gekijouban Sword Art Online: Ordinal Scale
+Break Beat Bark!
+Sayaka Kanda
+59
+FLCL
+Instant Music
+the pillows
+60
+Maison Ikkoku
+Get Down
+Gilbert O'Sullivan
+61
+Nisemonogatari
+Futakotome
+Chiwa Saito
+62
+Koukaku Kidoutai: Stand Alone Complex
+I do
+Ilaria Graziano
+63
+Shingeki! Kyojin Chuugakkou
+Hizamazuke Butadomo ga
+Hiroshi Kamiya from No Name
+64
+Haikyu!! To the Top
+PHOENIX
+BURNOUT SYNDROMES
+65
+Karakai Jouzu no Takagi-san 2
+Konayuki
+Rie Takahashi
+66
+Zombie Land Saga
+Atsuku Nare
+FranChouChou
+67
+One Punch Man
+Chizu ga Nakute mo Modoru kara
+Makoto Furukawa
+68
+Monster
+Be My Baby
+The Ronettes
+69
+Grand Blue
+Grand Blue
+Shonan no Kaze
+70
+Perfect Blue
+Ai no Tenshi
+MISA, Emiko Furukawa, Mie Shimizu
+71
+Shinseiki Evangelion
+Aoi Legend
+Kotono Mitsuishi
+72
+Sarai-ya Goyou
+all I need is...
+Rake
+73
+Date A Live III
+Nagisa no Perfume
+Minori Chihara
+74
+Gekijouban Mahou Shoujo Madoka★Magica Shinpen: Hangyaku no Monogatari
+misterioso
+Kalafina
+75
+Steins;Gate 0
+Lyra
+Zwei
+76
+Shoujo Kakumei Utena
+Rondo-revolution
+Masami Okui
+77
+Zankyou no Terror
+Trigger
+Yuuki Ozaki(from Galileo Galilei)
+78
+Sora no Otoshimono
+Bokura no Diary
+Ayahi Takagaki & Tatsuhisa Suzuki
+79
+Gekijouban Date A Live: Mayuri Judgement
+Invisible Date
+sweet ARMS
+80
+Shokugeki no Souma: Ni no Sara
+ROUGH DIAMONDS
+SCREEN mode
+81
+Golden Time
+Haneikyuu-teki ni Aishite yo♡
+Yui Horie
+82
+Freezing Vibration
+Sekai wa Kizu o Dakishimeru
+Konomi Suzuki
+83
+Ping Pong The Animation
+Tada Hitori
+Bakudan Johnny
+84
+Natsume Yuujinchou Go
+Takarabako
+sasanomaly
+85
+Shokugeki no Souma: San no Sara
+BRAVER
+ZAQ
+86
+Kami nomi zo Shiru Sekai: Megami-hen
+Hitomi kara Snow
+Nao Touyama
+87
+Durarara!!×2 Ten
+Day you laugh
+Toshiyuki Toyonaga
+88
+Odd Taxi
+ODDTAXI
+Skirt to PUNPEE
+89
+Vinland Saga Season 2
+River
+Anonymouz
+90
+Kyoukai no Kanata
+Daisy
+STEREO DIVE FOUNDATION
+91
+Arifureta Shokugyou de Sekai Saikyou
+Kin-iro ni Somaru Yoake
+Yuuki Kuwahara
+92
+Ousama Ranking
+Hadaka no Yuusha
+Vaundy
+93
+Strike the Blood
+Fight 4 Real
+ALTIMA
+94
+HachiKuro
+Mistake
+THE BAND HAS NO NAME
+99
+gay anime
+gayyy
+gay tragoudisths
+99
+gay animee
+gayyya
+gay tragoudisthsa
