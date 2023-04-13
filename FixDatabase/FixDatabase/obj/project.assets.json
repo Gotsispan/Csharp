@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\FixDatabase\\FixDatabase\\FixDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\FixDatabase\\FixDatabase\\FixDatabase.csproj",
       "projectName": "FixDatabase",
-      "projectPath": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\FixDatabase\\FixDatabase\\FixDatabase.csproj",
+      "projectPath": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\FixDatabase\\FixDatabase\\FixDatabase.csproj",
       "packagesPath": "C:\\Users\\pango\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\FixDatabase\\FixDatabase\\obj\\",
+      "outputPath": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\FixDatabase\\FixDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
