@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b6VtPJBOZwRpoWaQDUtKBizcrDsMQsa+NjFUXvW6Y0rZkhFWqb/W0i3eJxRaWRkHwoaOUupqsPWtRUHZKPli7w==",
+  "dgSpecHash": "Z8HYTasfmXQP4GoJwaz1n9NxuXwnisS0i7EZLoMK6IkurtxqF1+V/mLhrsRcurj9rVPyHRrrNmjQqYsZpFB3cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\AMQMatcher\\FixDatabase\\FixDatabase\\FixDatabase.csproj",
+  "projectFilePath": "C:\\Users\\pango\\Documents\\GitHub\\Csharp\\FixDatabase\\FixDatabase\\FixDatabase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
