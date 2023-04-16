@@ -1227,6 +1227,7 @@ Toaru Majutsu no Index II|Pray ~Inori~|IKU
 Akame ga Kill!|Jaegers|TAKUMI iwasky
 Ao no Exorcist|Me & Creed|Mika Kobayashi
 Date A Live II|monochrome|Minori Chihara
+<<<<<<< HEAD
 Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen|Imawa no Shinigami|Megumi Hayashibara
 KimiUso|Kirameki ~Kousei to Kaori no Ensou Ver.|wacci
 Masquerade|Hitomi|Uknown/AMQ Bug
@@ -1500,3 +1501,6 @@ Aria the Animation|Just For You|ROUND TABLE feat. Nino
 FLCL|Another Morning|the pillows
 Samurai Champloo|Shiki no Uta|MINMI
 Shinseiki Evangelion|Ryoute Ippai no Yume|Masami Okui
+=======
+Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen|Imawa no Shinigami|Megumi Hayashibara
+>>>>>>> 16bf08789559837c01a4f8deecc510a5a8f145e9
