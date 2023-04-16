@@ -1227,7 +1227,6 @@ Toaru Majutsu no Index II|Pray ~Inori~|IKU
 Akame ga Kill!|Jaegers|TAKUMI iwasky
 Ao no Exorcist|Me & Creed|Mika Kobayashi
 Date A Live II|monochrome|Minori Chihara
-<<<<<<< HEAD
 Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen|Imawa no Shinigami|Megumi Hayashibara
 KimiUso|Kirameki ~Kousei to Kaori no Ensou Ver.|wacci
 Masquerade|Hitomi|Uknown/AMQ Bug
