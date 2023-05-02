@@ -15,7 +15,7 @@ using WindowsFormsApplication1;
 
 namespace AMQMatching
 {
-     public class Program
+    public class Program
     {
         /// <summary>
         /// The main entry point for the application.
@@ -45,9 +45,9 @@ namespace AMQMatching
             string fileContent = client.DownloadString("https://raw.githubusercontent.com/Gotsispan/Csharp/main/AMQMatching/AMQMatching/AMQSongsDatabase2fixed.txt");
             string[] words = fileContent.Split('\n');
 
-            List<string[]> words2 = new List<string[]> { }; 
+            List<string[]> words2 = new List<string[]> { };
 
-            for (int i = 0; i < words.Length-1; i++)
+            for (int i = 0; i < words.Length - 1; i++)
             {
                 words2.Add(words[i].Split('|'));
                 //for (int j = 0; j < words[i].Split('|').Length; j++)
@@ -73,9 +73,6 @@ namespace AMQMatching
             }
         }
 
-
-
-
         [STAThread]
 
         public static void Main(string[] args)
@@ -87,11 +84,11 @@ namespace AMQMatching
             string[] artistsalldupes = { };
             string[] songsalldupes = { };
             string[] animealldupes = { };
-            
+
 
             for (int i = 0; i < words2.Count - 1; i++)
             {
-                
+                Debug.WriteLine("{0},{1}", words2[i][0], words2[i][1]);
                 if (!artistsall.Contains(words2[i][2]))
                 {
                     artistsall = addtoarraystr(artistsall, words2[i][2]);
@@ -119,7 +116,7 @@ namespace AMQMatching
 
             form.Show();
             System.Windows.Forms.Application.EnableVisualStyles();
-            System.Windows.Forms.Application.Run(form); 
+            System.Windows.Forms.Application.Run(form);
         }
     }
 }
