@@ -524,7 +524,8 @@ namespace WindowsFormsApplication1
             this.button44.Text = "button44";
             this.button44.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // button45
+       
             // 
             this.ClientSize = new System.Drawing.Size(426, 1061);
             this.Controls.Add(this.button44);
