@@ -34,7 +34,7 @@ namespace WindowsFormsApplication1
 
         public void Form1_Load(object sender, System.EventArgs e)
         {
-            this.Location = new Point(Screen.PrimaryScreen.Bounds.Width-426,10);
+            this.Location = new Point(Screen.PrimaryScreen.Bounds.Width - 426, 10);
 
             this.ClsCustomAutoCompleteTextbox1 = new clsCustomAutoCompleteTextbox();
             this.ClsCustomAutoCompleteTextbox1.AutoCompleteFormBorder = System.Windows.Forms.FormBorderStyle.None;
@@ -121,13 +121,13 @@ namespace WindowsFormsApplication1
                 }
             }
 
-            
+
 
         }
 
         private void BeforeDisplayingAutoComplete1(object sender, clsCustomAutoCompleteTextbox.clsAutoCompleteEventArgs e)
-        {   
-       
+        {
+
             string Name = this.ClsCustomAutoCompleteTextbox1.Text.ToLower();
             List<string> Display = new List<string>();
             foreach (string Str in MasterList1)
@@ -177,7 +177,7 @@ namespace WindowsFormsApplication1
         {
             string textToCopy;
             if (sender == button1)
-            {   
+            {
                 if (!String.IsNullOrEmpty(ClsCustomAutoCompleteTextbox1.Text))
                 {
                     ClsCustomAutoCompleteTextbox1.Text = "";
@@ -220,7 +220,7 @@ namespace WindowsFormsApplication1
         }
 
         private void buttonchoices_Click(object sender, EventArgs e)
-        {   
+        {
             System.Windows.Forms.Button button = sender as System.Windows.Forms.Button;
             if (!String.IsNullOrEmpty(button.Text))
             {
@@ -248,7 +248,7 @@ namespace WindowsFormsApplication1
             List<int> artistindexes = new List<int>();
             if (!String.IsNullOrEmpty(ClsCustomAutoCompleteTextbox1.Text))
             {
-                for (int i=0; i<animearraydupes.Length; i++)
+                for (int i = 0; i < animearraydupes.Length; i++)
                 {
                     if (animearraydupes[i] == ClsCustomAutoCompleteTextbox1.Text)
                     {
@@ -302,9 +302,10 @@ namespace WindowsFormsApplication1
                 }
             }
 
-            for (int i = 0; i < commons.Count; i++) {
+            for (int i = 0; i < commons.Count; i++)
+            {
                 Debug.WriteLine("{0} , {1}, {2}", animearraydupes[commons[i]], songsarraydupes[commons[i]], artistsarraydupes[commons[i]]);
-                if (i<12)
+                if (i < 12)
                 {
                     string buttonName1;
                     string buttonName2;
@@ -326,10 +327,11 @@ namespace WindowsFormsApplication1
                         System.Windows.Forms.Button button1 = this.Controls[buttonName1] as System.Windows.Forms.Button;
                         System.Windows.Forms.Button button2 = this.Controls[buttonName2] as System.Windows.Forms.Button;
                         System.Windows.Forms.Button button3 = this.Controls[buttonName3] as System.Windows.Forms.Button;
-                        if (button1 != null && button2 != null && button3 != null) { 
-                                button1.Text = animearraydupes[commons[i]];
-                                button2.Text = songsarraydupes[commons[i]];
-                                button3.Text = artistsarraydupes[commons[i]];
+                        if (button1 != null && button2 != null && button3 != null)
+                        {
+                            button1.Text = animearraydupes[commons[i]];
+                            button2.Text = songsarraydupes[commons[i]];
+                            button3.Text = artistsarraydupes[commons[i]];
 
                         }
                     }
