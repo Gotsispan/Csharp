@@ -1,0 +1,11 @@
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe.config
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\bin\Debug\MyCalendar.pdb
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.AssemblyReference.cache
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.Properties.Resources.resources
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.GenerateResource.cache
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.CoreCompileInputs.cache
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.exe
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.pdb
+C:\Users\pango\Documents\GitHub\Csharp\MyCalendar\MyCalendar\obj\Debug\MyCalendar.DateTimeDayOfMonthExtensions.resources
