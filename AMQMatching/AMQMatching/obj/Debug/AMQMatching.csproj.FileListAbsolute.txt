@@ -20,3 +20,8 @@ C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\obj\Debug\AMQMatc
 C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.CoreCompileInputs.cache
 C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\obj\Debug\AMQMatching.exe
 C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\obj\Debug\AMQMatching.pdb
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\bin\Debug\WebDriver.dll
+C:\Users\pango\Documents\GitHub\Csharp\AMQMatching\AMQMatching\obj\Debug\AMQMatching.csproj.CopyComplete
